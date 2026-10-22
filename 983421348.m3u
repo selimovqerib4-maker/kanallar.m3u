@@ -1,1 +1,214 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan",AZAD AZERBAYCAN TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Xəzər Tv
+http://ua.online24.pm/play/440/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space Tv HD
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/32207/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Baku Tv Xəbər
+http://ua.online24.pm/play/475/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb24 Xəbər
+http://ua.online24.pm/play/51702/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Medeniyyet tv
+http://ua.online24.pm/play/438/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv
+http://ua.online24.pm/play/436/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AzTV AZ
+http://ua.online24.pm/play/435/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space Tv
+http://ua.online24.pm/play/430/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Real Tv Xəbər
+http://ua.online24.pm/play/429/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Dunya Tv
+http://ua.online24.pm/play/428/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Atv Azərbaycan
+http://ua.online24.pm/play/412/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",CBC SPORT
+http://ua.online24.pm/play/434/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İdman Tv
+http://ua.online24.pm/play/439/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",MTV Azərbaycan
+http://ua.online24.pm/play/51708/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Naxçıvan Tv
+http://ua.online24.pm/play/51709/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Sport Tv Az
+http://ua.online24.pm/play/51872/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Sport Tv Az 2
+http://ua.online24.pm/play/51873/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb Tv
+http://ua.online24.pm/play/51703/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv HD
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Kanal S HD Şəki
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32212/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Diginet Cinema Tv
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb Günəş
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HYFT9KYHFQG2S4/2189/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Tv Music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Mahnı Tv Musiqi Kanalı
+http://138.16.142.113:2095/ext/xp-80d90db38f/11091/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
+#EXTINF:-1 group-title="Azərbaycan",Kəpəz tv
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1 group-title="Azərbaycan",LİVE TV
+https://tv.mobyservice.ru/livetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",FTV
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",MusicAzerbaijan Tv
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/480p/480p.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Showplus Tv
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",KNtv
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",SİMVOL TV
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",GUNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AS STAR TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",MAX TV
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 group-title="Azərbaycan",NEO PLAY
+https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türk",Şaban Tv
+http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
+#EXTINF:-1 group-title="Sinema",Kemal Sunal HD 1 7/24
+http://kalite.online:2095/yld6162/30012025yd63/123072
+#EXTINF:-1  tvg-name="TR: KEMAL SUNAL 2 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.02.png" group-title="Sinema",TR: KEMAL SUNAL 2 ʜᴅ
+http://kalite.online:2095/yld6162/30012025yd63/70077
+#EXTINF:-1  tvg-name="TR: KEMAL SUNAL 3 ʜᴅ" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.03.png" group-title="Sinema",TR: KEMAL SUNAL 3 ʜᴅ
+http://kalite.online:2095/yld6162/30012025yd63/105268
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/TRT.1.png" group-title="Türk",TR: TRT 1 FHD
+http://kalite.online:2095/yld6162/30012025yd63/32770
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/ATV.png" group-title="Türk",TR: ATV HD
+http://kalite.online:2095/yld6162/30012025yd63/96898
+#EXTINF:-1  tvg-name="TR: ATV AVRUPA" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/ATV.AVRUPA.png" group-title="Türk",TR: ATV AVRUPA
+http://kalite.online:2095/yld6162/30012025yd63/275883
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/STAR.YV.png" group-title="Türk",TR: STAR TV FHD
+http://kalite.online:2095/yld6162/30012025yd63/107672
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/SHOW.TV.png" group-title="Türk",TR: SHOW TV HD
+http://kalite.online:2095/yld6162/30012025yd63/130955
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/KANAL.D.png" group-title="Türk",TR: KANAL D HD
+http://kalite.online:2095/yld6162/30012025yd63/77318
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: NOW FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/NOW.png" group-title="Türk",TR: NOW FHD
+http://kalite.online:2095/yld6162/30012025yd63/107148
+#EXTINF:-1  tvg-name="TR: TV4 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/HABERR/TV.4.png" group-title="Türk",TR: TV4 FHD
+http://kalite.online:2095/yld6162/30012025yd63/104651
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TURK" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/SHOW.TURK.png" group-title="Türk",TR: SHOW TURK
+http://kalite.online:2095/yld6162/30012025yd63/52167
+#EXTINF:-1 group-title="Türk",Tv8,Tv8,Tv8,Tv8,5 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2318/index.m3u8
+#EXTINF:-1 tvg-id="eurod.tr" tvg-name="TR: EURO D" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/EURO.D.png" group-title="Türk",TR: EURO D
+http://kalite.online:2095/yld6162/30012025yd63/161451
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/SHOW.MAX.png" group-title="Türk",TR: SHOW MAX
+http://kalite.online:2095/yld6162/30012025yd63/56008
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/TEVE.2.png" group-title="Türk",TR: TEVE 2 FHD
+http://kalite.online:2095/yld6162/30012025yd63/99992
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR:  BEYAZ TV HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/BEYAZ.TV.png" group-title="Türk",TR:  BEYAZ TV HD
+http://kalite.online:2095/yld6162/30012025yd63/18453
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/A2.png" group-title="Türk",TR: A2 HD
+http://kalite.online:2095/yld6162/30012025yd63/45469
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/KANAL.7.png" group-title="Türk",TR: KANAL 7 HD
+http://kalite.online:2095/yld6162/30012025yd63/71260
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA FHD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/AVRUPA.7.png" group-title="Türk",TR: KANAL 7 AVRUPA FHD
+http://kalite.online:2095/yld6162/30012025yd63/81290
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/TR/ULUSALL/TEVE.2.png" group-title="Türk",TR: TEVE 2 HD
+http://kalite.online:2095/yld6162/30012025yd63/155220
+#EXTINF:-1 group-title="Türk",TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+#EXTINF:-1 group-title="Türk",MC EU
+https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+#EXTINF:-1 group-title="Türk",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Türk",TV 8 FHD
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 group-title="Türk",TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 group-title="Türk",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk",Tivi6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="Türk",KANAL AVRUPA
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Sinema",Yansima Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Türk",İSVİÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",Flux tv
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",CENNETMAHELLESİ
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 group-title="Türk",Patı Tv
+http://45.88.139.156/d/live/out.m3u8
+#EXTINF:-1 group-title="Türk",Cine5tv
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",Cine1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 group-title="Türk",Zem Tv
+http://45.158.14.16/ZemTv/live/index.m3u8
+#EXTINF:-1 group-title="Sinema",Max Dizi
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Maxpremier
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Maxyerli
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Max Tv HD
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
+#EXTINF:-1 group-title="Türk",TVB TV
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="Türk",Rizetürk tv
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",Sdmtv
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sinema",Sinema Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 group-title="Türk",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",kurtlar vadisi
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/kurtlar-vadisi-pusu.m3u8
+#EXTINF:-1 group-title="Sinema",beIN Movies Turk HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6966/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Türk",Cocuk SMART [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6962/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",DiziSmart Max HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6976/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",MovieSmart Classic [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7894/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",MovieSmart Türk HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6994/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema 1001 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7001/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema 1002 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7002/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Aile 2 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7003/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Aile HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7004/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Komedi 2 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7006/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Komedi HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7007/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Türk",Kocaeli TV HD
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türk",KRAL POP TV
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="Türk",NT Spor
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1438643696.m3u8
+#EXTINF:-1 group-title="Türk",Meltem Tv
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1,Tv25
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8
 
