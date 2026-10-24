@@ -1,1 +1,725 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan",AZAD AZERBAYCAN TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Xəzər Tv
+http://ua.online24.pm/play/440/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space Tv HD
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/32207/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Baku Tv Xəbər
+http://ua.online24.pm/play/475/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb24 Xəbər
+http://ua.online24.pm/play/51702/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Medeniyyet tv
+http://ua.online24.pm/play/438/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv
+http://ua.online24.pm/play/436/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AzTV AZ
+http://ua.online24.pm/play/435/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space Tv
+http://ua.online24.pm/play/430/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Real Tv Xəbər
+http://ua.online24.pm/play/429/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Dunya Tv
+http://ua.online24.pm/play/428/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Atv Azərbaycan
+http://ua.online24.pm/play/412/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",CBC SPORT
+http://ua.online24.pm/play/434/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İdman Tv
+http://ua.online24.pm/play/439/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",MTV Azərbaycan
+http://ua.online24.pm/play/51708/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Naxçıvan Tv
+http://ua.online24.pm/play/51709/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Sport Tv Az
+http://ua.online24.pm/play/51872/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Sport Tv Az 2
+http://ua.online24.pm/play/51873/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb Tv
+http://ua.online24.pm/play/51703/FF2E7C222919825/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv HD
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Kanal S HD Şəki
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32212/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Diginet Cinema Tv
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb Günəş
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HYFT9KYHFQG2S4/2189/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Tv Music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Mahnı Tv Musiqi Kanalı
+http://138.16.142.113:2095/ext/xp-80d90db38f/11091/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
+#EXTINF:-1 group-title="Azərbaycan",Kəpəz tv
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1 group-title="Azərbaycan",LİVE TV
+https://tv.mobyservice.ru/livetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",FTV
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",MusicAzerbaijan Tv
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/480p/480p.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Showplus Tv
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",KNtv
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",SİMVOL TV
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",GUNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AS STAR TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",MAX TV
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 group-title="Azərbaycan",NEO PLAY
+https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Türk",Şaban Tv
+http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Türk",TRT 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196683&extension=ts&play_token=YUIm1DgYqE
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr"tvg-name="KANAL 7 Avrupa TR"   tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="Türk",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Türk",KANAL 7
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&extension=ts&play_token=PndCKJQB2u
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Türk",SHOW TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/FOXTV.png" group-title="Türk",NOW TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196694&extension=ts&play_token=lSQRFJi5TM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275541&extension=ts&play_token=mUAyQDL72Y
+#EXTINF:1 tvg-id="birtv.tr" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" group-title="Türk",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="Türk",ATV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196698&extension=ts&play_token=6k77AngOgl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/KanalD.png" group-title="Türk",KANAL D
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196696&extension=ts&play_token=DYgtNp28Es
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/startv.png" group-title="Türk",STAR TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196695&extension=ts&play_token=9rZyNWfIPX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title="Türk",TRT 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196688&extension=ts&play_token=xSvgymKo8X
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeyazTV.png" group-title="Türk",BEYAZ TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196691&extension=ts&play_token=8QiYAaqw7G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" group-title="Türk",TEVE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/A2.png" group-title="Türk",A2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
+#EXTINF:-1,SHOWMAX
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+#EXTINF:-1 group-title="Türk",Tv8,Tv8,Tv8,Tv8,5 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2318/index.m3u8
+#EXTINF:-1 group-title="Türk",TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+#EXTINF:-1 group-title="Türk",MC EU
+https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+#EXTINF:-1 group-title="Türk",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Türk",TV 8 FHD
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 group-title="Türk",TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 group-title="Türk",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk",Tivi6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 group-title="Türk",KANAL AVRUPA
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",İSVİÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",Flux tv
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",CENNETMAHELLESİ
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 group-title="Türk",Patı Tv
+http://45.88.139.156/d/live/out.m3u8
+#EXTINF:-1 group-title="Türk",Cine5tv
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",Cine1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 group-title="Türk",Zem Tv
+http://45.158.14.16/ZemTv/live/index.m3u8
+#EXTINF:-1 group-title="Türk",TVB TV
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="Türk",Rizetürk tv
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",Sdmtv
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="Türk",Cocuk SMART [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6962/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Türk",Kocaeli TV HD
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türk",KRAL POP TV
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+#EXTINF:-1 group-title="Türk",NT Spor
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/chunklist_w1438643696.m3u8
+#EXTINF:-1 group-title="Türk",Meltem Tv
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 group-title="Sinema",Yansima Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Max Dizi
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Maxpremier
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Maxyerli
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Max Tv HD
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Sinema Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",kurtlar vadisi
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/kurtlar-vadisi-pusu.m3u8
+#EXTINF:-1 group-title="Sinema",beIN Movies Turk HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6966/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",DiziSmart Max HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6976/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",MovieSmart Classic [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7894/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",MovieSmart Türk HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6994/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema 1001 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7001/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema 1002 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7002/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Aile 2 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7003/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Aile HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7004/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Komedi 2 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7006/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 group-title="Sinema",Sinema Komedi HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7007/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471700&extension=ts&play_token=i0YM1UnDab
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 4
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Sinema",TIVIONE MOVIES STARS
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 3
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Sinema",TIVIONE MOVIES ACTION
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Sinema",TIVIONE MOVIES STARS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Sinema",TIVIONE MOVIES ACTION
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471700&extension=ts&play_token=i0YM1UnDab
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON 2.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471693&extension=ts&play_token=dXcImR2VOm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema",SINEMA TV AKSIYON
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471692&extension=ts&play_token=JrSdLylyR5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema",MOVIESMART TÜRK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema",SINEMA TV AILE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471691&extension=ts&play_token=bcbMRdaja4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema",SINEMA TV 1001
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471686&extension=ts&play_token=yPA99fo4XP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471689&extension=ts&play_token=rlz9LlxLPS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema",MOVIESMART CLASSIC
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471684&extension=ts&play_token=txJYZNZE6k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema",CINE 6
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471697&extension=ts&play_token=fBblcTNf3r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema",FX
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471702&extension=ts&play_token=cbcl7gAM4x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema",SINEMA TV 1002
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471687&extension=ts&play_token=HzhZ6vEhES
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema",DIZISMART MAX
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema",SINEMA TV AILE
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471690&extension=ts&play_token=XkCHN9quwY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema",SINEMA TV KOMEDI
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471694&extension=ts&play_token=gUDQpjYD0L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema",TIVI 6
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471703&extension=ts&play_token=d61TdntQCe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema",SINEMA TV YERLI 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema",EPIC DRAMA
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema",MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema",SINEMA TV AILE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471690&extension=ts&play_token=XkCHN9quwY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV.png" group-title="Sinema",SINEMA TVSINEMA TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471688&extension=ts&play_token=uLYwagAIiW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema",MOVIESMART TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema",SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471687&extension=ts&play_token=HzhZ6vEhES
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON 2.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471693&extension=ts&play_token=dXcImR2VOm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema",SINEMA TV KOMEDI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471694&extension=ts&play_token=gUDQpjYD0L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema",SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471686&extension=ts&play_token=yPA99fo4XP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema",SINEMA TV YERLI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema",EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema",SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471691&extension=ts&play_token=bcbMRdaja4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema",FX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471702&extension=ts&play_token=cbcl7gAM4x
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema",TIVI 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471703&extension=ts&play_token=d61TdntQCe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema",CINE 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471697&extension=ts&play_token=fBblcTNf3r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema",SINEMA TV AKSIYON
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471692&extension=ts&play_token=JrSdLylyR5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema",SINEMA TV 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
+#EXTINF:-1  tvg-name="┃TR┃ YABAN TV" group-title="BELGESEL",YABAN TV
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3LFzchs/images-removebg-preview-(3).png" group-title="Sinema",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCVQN9PB/38333581-ico.png" group-title="Sinema",ŞABAN TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="Sinema",CİNE5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnfBM4Bb/38842185-ico.png" group-title="Sinema",YANSIMA NOSTALJİ TV
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV3mvSwf/38332657-ico.png" group-title="Sinema",YANSIMA SİNEMA TV
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YrbxXS/12029-removebg-preview.png" group-title="Sinema",TELEZEN
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/telezentvchannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySpcvvF/37593099-ico.png" group-title="Sinema",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFjW271w/37606681-ico.png" group-title="Sinema",BAŞKA TV
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/baska-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCyJxgGz/5a2e2180402eb771a49592a8-removebg-preview.png" group-title="Sinema",MOVİE SMART TÜRK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmjkCM3g/Movie-Smart-Classic-logo.png" group-title="Sinema",MOVİE SMART CLASSİC
+https://nord.ayakkabiparti.lol/mvturk/index.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197150&extension=ts&play_token=Qyg7xZtKPS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197154&extension=ts&play_token=DhHmxaaEy1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/TiviOneENTERTAINMENT/TiviOne-movies-183472.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197155&extension=ts&play_token=bGp1orGGzP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197152&extension=ts&play_token=fkElbmWwon
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DiziSmartPremium.tr.png" group-title="Sinema",DIZISMART PREMIUM
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197141&extension=ts&play_token=DviKGVpwou
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197130&extension=ts&play_token=OGpmnWnGk8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197142&extension=ts&play_token=a2Cuv0JYUx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197148&extension=ts&play_token=AZ1nfBwDC5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197153&extension=ts&play_token=X6RnnsIbuZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197139&extension=ts&play_token=ZOc5rxcKi6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197146&extension=ts&play_token=1rohPQEEBT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197143&extension=ts&play_token=TIWsWdf93Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197121&extension=ts&play_token=jNoNfQTSEm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197133&extension=ts&play_token=vz7x3ifk8a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197131&extension=ts&play_token=X9NOzCl3Xm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197120&extension=ts&play_token=4qs9Rb6Vm6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197134&extension=ts&play_token=nFUwnunQ3l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197125&extension=ts&play_token=WptkWfQkrP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197126&extension=ts&play_token=VsyScjJNVY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197132&extension=ts&play_token=Bbe8LhucdQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart.png" group-title="Sinema",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/640px-Epic-Drama.png" group-title="Sinema",EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197138&extension=ts&play_token=3Go4nzhX4j
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275555&extension=ts&play_token=BbF3r8bw7o
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",ANIMASYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275551&extension=ts&play_token=YeRpHQHMzk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",007
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275556&extension=ts&play_token=AsvfA7NRVh
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",ANIMASYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275552&extension=ts&play_token=lnbal16Vw4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",GOLD MIX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275547&extension=ts&play_token=yiqhpbRr9y
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",BILIMKURGU 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275549&extension=ts&play_token=sS6qnbf9WS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275553&extension=ts&play_token=QU7r6URZrk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275544&extension=ts&play_token=wA6QY45vj9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275554&extension=ts&play_token=OnNqa4ssRA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",KOMEDI 90 LAR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275546&extension=ts&play_token=ujH7Iw3UE8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275543&extension=ts&play_token=2APIfT5XtQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",MARVEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275545&extension=ts&play_token=qOEYLQZfmH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",BELGESEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275550&extension=ts&play_token=yPElqMB2sf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",BILIMKURGU 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275548&extension=ts&play_token=wRb3k4U8uQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",YESILCAM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275538&extension=ts&play_token=mWD5CVqTPt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275542&extension=ts&play_token=ONhvMMDFFm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",VIZYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275539&extension=ts&play_token=Ggsjm8WaZW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",VIZYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275540&extension=ts&play_token=JWxABnpL0I
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="Sinema",REDBOX 24 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275583&extension=ts&play_token=Vrd8vPfRol
+#EXTINF:-1,Tv25
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8
+#EXTGRP:Rus
+http://ua.online24.pm/play/243/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://iptv.pm/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5",Первый канал HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/73/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-kanal-eu" tvg-name="Первый канал Европа" tvg-logo="https://iptv.pm/images/ico/pervy.png"  tvg-rec="5" timeshift="5",Первый канал Европа
+#EXTGRP:Россия
+http://ua.online24.pm/play/446/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl2" tvg-name="Первый канал +2" tvg-logo="https://iptv.pm/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5",Первый канал +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/701/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl4" tvg-name="Первый HD +4" tvg-logo="https://iptv.pm/epg/icon/pervyj.png" ,Первый HD +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/74/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl4" tvg-name="Первый канал +4" tvg-logo="https://iptv.pm/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5",Первый канал +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/731/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl6" tvg-name="Первый канал +6" tvg-logo="https://iptv.pm/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5",Первый канал +6
+#EXTGRP:Россия
+http://ua.online24.pm/play/751/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-pl8" tvg-name="Первый Канал +8" tvg-logo="https://iptv.pm/images/epg/7387.png?v1788115773" ,Первый Канал +8
+#EXTGRP:Россия
+http://ua.online24.pm/play/51624/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1" tvg-name="Россия 1 HD" tvg-logo="https://iptv.pm/epg/icon/rossia-hd.png"  tvg-rec="5" timeshift="5",Россия 1 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/173/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1" tvg-name="Россия 1" tvg-logo="https://iptv.pm/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5",Россия 1
+#EXTGRP:Россия
+http://ua.online24.pm/play/2/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl2" tvg-name="Россия 1 +2 HD" tvg-logo="https://iptv.pm/images/epg/6883.png?v1788019628" ,Россия 1 +2 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51375/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl2" tvg-name="Россия 1 +2" tvg-logo="https://iptv.pm/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5",Россия 1 +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/702/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl4" tvg-name="Россия 1 +4 HD " tvg-logo="https://iptv.pm/images/epg/6885.png?v1788019635" ,Россия 1 +4 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51376/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl4" tvg-name="Россия 1 +4" tvg-logo="https://iptv.pm/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5",Россия 1 +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/732/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl6" tvg-name="Россия 1 +6 HD " tvg-logo="https://iptv.pm/images/epg/6887.png?v1788019642" ,Россия 1 +6 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51377/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl6" tvg-name="Россия 1 +6" tvg-logo="https://iptv.pm/epg/icon/rossia1.png"  tvg-rec="5" timeshift="5",Россия 1 +6
+#EXTGRP:Россия
+http://ua.online24.pm/play/752/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia1-pl9" tvg-name="Россия 1 +9 HD" tvg-logo="https://iptv.pm/images/epg/6889.png?v1788019649" ,Россия 1 +9 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51378/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia-24" tvg-name="Россия 24" tvg-logo="https://iptv.pm/epg/icon/rossia24.png"  tvg-rec="5" timeshift="5",Россия 24
+#EXTGRP:Россия
+http://ua.online24.pm/play/49/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrossia-24" tvg-name="Россия 24 HD" tvg-logo="https://iptv.pm/images/epg/7151.png?v1788020493" ,Россия 24 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51506/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrtr-planeta-eu" tvg-name="РТР Планета СНГ" tvg-logo="https://iptv.pm/images/ico/rtr-planeta.png"  tvg-rec="5" timeshift="5",Планета РТР
+#EXTGRP:Россия
+http://ua.online24.pm/play/353/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt" tvg-name="ТНТ" tvg-logo="https://iptv.pm/epg/icon/tnt.png" ,ТНТ
+#EXTGRP:Россия
+http://ua.online24.pm/play/92/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt" tvg-name="ТНТ HD" tvg-logo="https://iptv.pm/epg/icon/tnt.png"  tvg-rec="5" timeshift="5",ТНТ HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/86/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl2" tvg-name="ТНТ +2" tvg-logo="https://iptv.pm/epg/icon/tnt.png"  tvg-rec="5" timeshift="5",ТНТ +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/719/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl4" tvg-name="ТНТ +4" tvg-logo="https://iptv.pm/epg/icon/tnt.png"  tvg-rec="5" timeshift="5",ТНТ +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/749/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-pl7" tvg-name="ТНТ +7" tvg-logo="https://iptv.pm/epg/icon/tnt.png"  tvg-rec="5" timeshift="5",ТНТ +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/769/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt-int-cis" tvg-name="ТНТ International HD" tvg-logo="https://iptv.pm/images/epg/7123.png?v1788020516" ,ТНТ International HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51492/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4" tvg-name="ТНТ4" tvg-logo="https://iptv.pm/epg/icon/tnt4.png"  tvg-rec="5" timeshift="5",ТНТ4
+#EXTGRP:Россия
+http://ua.online24.pm/play/41/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4" tvg-name="ТНТ4 HD" tvg-logo="https://iptv.pm/epg/icon/tnt4.png"  tvg-rec="5" timeshift="5",ТНТ4 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/687/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4-pl2" tvg-name="ТНТ4 +2" tvg-logo="https://iptv.pm/images/epg/6875.png?v1788019466" ,ТНТ4 +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51371/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4-pl7" tvg-name="ТНТ4 +7" tvg-logo="https://iptv.pm/images/epg/7121.png?v1788019496" ,ТНТ4 +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51491/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtnt4-pl4" tvg-name="ТНТ4 +4" tvg-logo="https://iptv.pm/images/epg/6877.png?v1788019490" ,ТНТ4 +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/51372/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv-mir" tvg-name="НТВ Мир" tvg-logo="https://iptv.pm/epg/icon/ntv-mir.png" ,НТВ Мир
+#EXTGRP:Россия
+http://ua.online24.pm/play/627/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv" tvg-name="НТВ" tvg-logo="https://iptv.pm/epg/icon/ntv-white.png" ,НТВ
+#EXTGRP:Россия
+http://ua.online24.pm/play/5333/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv" tvg-name="НТВ HD" tvg-logo="https://iptv.pm/epg/icon/ntv-white.png"  tvg-rec="5" timeshift="5",НТВ HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/220/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl1" tvg-name="НТВ +1" tvg-logo="https://iptv.pm/images/epg/7611.png?v1790242764" ,НТВ +1
+#EXTGRP:Россия
+http://ua.online24.pm/play/51733/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl2" tvg-name="НТВ +2" tvg-logo="https://iptv.pm/epg/icon/ntv-white.png"  tvg-rec="5" timeshift="5",НТВ +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/704/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl4" tvg-name="НТВ +4" tvg-logo="https://iptv.pm/images/ico/ntv-pl4.png"  tvg-rec="5" timeshift="5",НТВ +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/614/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv-pl7" tvg-name="НТВ +7" tvg-logo="https://iptv.pm/images/epg/6873.png?v1788019429" ,НТВ +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51370/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xntv-style" tvg-name="НТВ Стиль" tvg-logo="https://iptv.pm/epg/icon/ntv-style.png"  tvg-rec="5" timeshift="5",НТВ Стиль
+#EXTGRP:Россия
+http://ua.online24.pm/play/786/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-ru" tvg-name="ТВ3 HD" tvg-logo="https://iptv.pm/images/ico/tv3-ru.png" ,ТВ3 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/519/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-ru-pl2" tvg-name="ТВ3 +2" tvg-logo="https://iptv.pm/images/epg/7129.png?v1788020544" ,ТВ3 +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51495/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtv3-ru-pl7" tvg-name="ТВ3 +7" tvg-logo="https://iptv.pm/images/epg/7131.png?v1788020551" ,ТВ3 +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51496/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xvremia" tvg-name="Время" tvg-logo="https://iptv.pm/epg/icon/vremia.png"  tvg-rec="5" timeshift="5",Время
+#EXTGRP:Россия
+http://ua.online24.pm/play/131/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xmoskva-24" tvg-name="Москва 24" tvg-logo="https://iptv.pm/epg/icon/moskva-24.png"  tvg-rec="5" timeshift="5",Москва 24
+#EXTGRP:Россия
+http://ua.online24.pm/play/163/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="https://iptv.pm/epg/icon/sankt-peterburg.png" ,Санкт-Петербург
+#EXTGRP:Россия
+http://ua.online24.pm/play/301/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Чlot-47" tvg-name="Лен ТВ 24" tvg-logo="https://iptv.pm/images/epg/7489.png?v1789732325" ,Лен ТВ 24
+#EXTGRP:Россия
+http://ua.online24.pm/play/51672/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrentv" tvg-name="Рен ТВ" tvg-logo="https://iptv.pm/epg/icon/rentv.png" ,Рен ТВ
+#EXTGRP:Россия
+http://ua.online24.pm/play/258/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrentv" tvg-name="Рен ТВ HD" tvg-logo="https://iptv.pm/epg/icon/rentv.png"  tvg-rec="5" timeshift="5",Рен ТВ HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/111/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrentv-pl2" tvg-name="Рен ТВ +2" tvg-logo="https://iptv.pm/epg/icon/rentv.png"  tvg-rec="5" timeshift="5",Рен ТВ +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/711/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrentv-pl7" tvg-name="Рен ТВ +7" tvg-logo="https://iptv.pm/images/epg/6879.png?v1788019519" ,Рен ТВ +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51373/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="https://iptv.pm/images/epg/51354.png?v1788019159" ,СТС International
+#EXTGRP:Россия
+http://ua.online24.pm/play/51354/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsts" tvg-name="СТС" tvg-logo="https://iptv.pm/epg/icon/sts.png"  tvg-rec="5" timeshift="5",СТС
+#EXTGRP:Россия
+http://ua.online24.pm/play/8/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsts" tvg-name="СТС HD" tvg-logo="https://iptv.pm/epg/icon/sts.png"  tvg-rec="5" timeshift="5",СТС HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/36/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl2" tvg-name="СТС +2" tvg-logo="https://iptv.pm/epg/icon/sts.png"  tvg-rec="5" timeshift="5",СТС +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/713/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsts-pl4" tvg-name="СТС +4" tvg-logo="https://iptv.pm/epg/icon/sts.png"  tvg-rec="5" timeshift="5",СТС +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/743/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsts-love" tvg-name="СТС Love" tvg-logo="https://iptv.pm/images/epg/284.png?v1788019063"  tvg-rec="5" timeshift="5",СТС Love
+#EXTGRP:Россия
+http://ua.online24.pm/play/284/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsts-love-pl4" tvg-name="СТС Love +4" tvg-logo="https://iptv.pm/images/epg/6839.png?v1788019088" ,СТС Love +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/51353/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X5kanal-ru" tvg-name="Пятый Канал" tvg-logo="https://iptv.pm/epg/icon/5kanal-ru.png"  tvg-rec="5" timeshift="5",Пятый Канал
+#EXTGRP:Россия
+http://ua.online24.pm/play/169/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X5kanal-ru-pl2" tvg-name="Пятый Канал +2" tvg-logo="https://iptv.pm/images/epg/6881.png?v1788019560" ,Пятый Канал +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51374/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X5kanal-ru-pl7" tvg-name="Пятый канал +7" tvg-logo="https://iptv.pm/images/epg/7111.png?v1788019568" ,Пятый канал +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51486/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xkultura" tvg-name="Россия К" tvg-logo="https://iptv.pm/epg/icon/rossia-k.png"  tvg-rec="5" timeshift="5",Россия К
+#EXTGRP:Россия
+http://ua.online24.pm/play/59/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xkultura-pl2" tvg-name="Россия К +2" tvg-logo="https://iptv.pm/images/epg/7153.png?v1788020598" ,Россия К +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51507/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xkultura-pl4" tvg-name="Россия К +4" tvg-logo="https://iptv.pm/images/epg/7155.png?v1788020607" ,Россия К +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/51508/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xkultura-pl7" tvg-name="Россия К +7" tvg-logo="https://iptv.pm/images/epg/7157.png?v1788020614" ,Россия К +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51509/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtvcentr" tvg-name="ТВЦ" tvg-logo="https://iptv.pm/images/ico/tvcentr.png"  tvg-rec="5" timeshift="5",ТВЦ
+#EXTGRP:Россия
+http://ua.online24.pm/play/3/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrbk" tvg-name="РБК-ТВ" tvg-logo="https://iptv.pm/epg/icon/rbk.png"  tvg-rec="5" timeshift="5",РБК-ТВ
+#EXTGRP:Россия
+http://ua.online24.pm/play/34/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xprnk-tv" tvg-name="Первый Российский Национальный канал" tvg-logo="https://iptv.pm/images/ico/prnk-tv.png" ,Первый Российский Национальный канал
+#EXTGRP:Россия
+http://ua.online24.pm/play/5317/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtvcentr" tvg-name="ТВ Центр HD" tvg-logo="https://iptv.pm/images/epg/7115.png?v1788020655" ,ТВ Центр HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51488/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtvcentr-pl2" tvg-name="ТВЦ +2" tvg-logo="https://iptv.pm/images/epg/7117.png?v1788020663" ,ТВЦ +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51489/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xtvcentr-pl7" tvg-name="ТВЦ +7" tvg-logo="https://iptv.pm/images/epg/7119.png?v1788020670" ,ТВЦ +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51490/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xotr" tvg-name="ОТР" tvg-logo="https://iptv.pm/epg/icon/otr_ru.png"  tvg-rec="5" timeshift="5",ОТР
+#EXTGRP:Россия
+http://ua.online24.pm/play/199/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xrtvi" tvg-name="RTVi" tvg-logo="https://iptv.pm/images/ico/rtvi.png"  tvg-rec="5" timeshift="5",RTVi
+#EXTGRP:Россия
+http://ua.online24.pm/play/365/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xperec-int" tvg-name="Перец" tvg-logo="https://iptv.pm/epg/icon/perec.png"  tvg-rec="5" timeshift="5",Перец
+#EXTGRP:Россия
+http://ua.online24.pm/play/484/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница" tvg-logo="https://iptv.pm/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5",Пятница
+#EXTGRP:Россия
+http://ua.online24.pm/play/9/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpiatnica" tvg-name="Пятница HD" tvg-logo="https://iptv.pm/epg/icon/pyatnica.png"  tvg-rec="5" timeshift="5",Пятница HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/9930/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="piatnica-pl7" tvg-name="Пятница +7" tvg-logo="https://iptv.pm/images/epg/6955.png?v1788019940" ,Пятница +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51408/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="piatnica-pl4" tvg-name="Пятница +4" tvg-logo="https://iptv.pm/images/epg/51409.png?v1788019978" ,Пятница +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/51409/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="piatnica-pl2" tvg-name="Пятница +2" tvg-logo="https://iptv.pm/images/epg/51410.png?v1788019972" ,Пятница +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51410/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsuper" tvg-name="Суббота" tvg-logo="https://iptv.pm/epg/icon/super.png"  tvg-rec="5" timeshift="5",Суббота
+#EXTGRP:Россия
+http://ua.online24.pm/play/3685/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xnastoyaschee-vremia" tvg-name="Настоящее время HD" tvg-logo="https://iptv.pm/images/ico/nastoiaschee-vremia.png"  tvg-rec="5" timeshift="5",Настоящее время HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/6202/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xyu" tvg-name="Ю+" tvg-logo="https://iptv.pm/epg/icon/yu.png"  tvg-rec="5" timeshift="5",Ю+
+#EXTGRP:Россия
+http://ua.online24.pm/play/298/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="yu-pl2" tvg-name="Ю+ 2" tvg-logo="https://iptv.pm/images/epg/6943.png?v1788019812" ,Ю+ 2
+#EXTGRP:Россия
+http://ua.online24.pm/play/51402/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="yu-pl4" tvg-name="Ю+ 4" tvg-logo="https://iptv.pm/images/epg/6945.png?v1788019822" ,Ю+ 4
+#EXTGRP:Россия
+http://ua.online24.pm/play/51403/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="yu-pl7" tvg-name="Ю+ 7" tvg-logo="https://iptv.pm/images/epg/6947.png?v1788019832" ,Ю+ 7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51404/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xmir" tvg-name="Мир" tvg-logo="https://iptv.pm/epg/icon/mir.png"  tvg-rec="5" timeshift="5",Мир
+#EXTGRP:Россия
+http://ua.online24.pm/play/118/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xmir-pl4" tvg-name="Мир +4" tvg-logo="https://iptv.pm/images/epg/7125.png?v1788021073" ,Мир +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/51493/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xmir-pl7" tvg-name="Мир +7" tvg-logo="https://iptv.pm/images/epg/7127.png?v1788021079" ,Мир +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51494/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda" tvg-name="Звезда HD" tvg-logo="https://iptv.pm/epg/icon/zvezda.png"  tvg-rec="5" timeshift="5",Звезда HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/170/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda" tvg-name="Звезда" tvg-logo="https://iptv.pm/epg/icon/zvezda.png" ,Звезда
+#EXTGRP:Россия
+http://ua.online24.pm/play/148/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda-plus" tvg-name="Звезда Плюс HD" tvg-logo="https://iptv.pm/images/epg/7609.png?v1790242630" ,Звезда Плюс HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/51732/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda-pl2" tvg-name="Звезда +2" tvg-logo="https://iptv.pm/images/ico/zvezda-pl2.png" ,Звезда +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/151/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda-plus" tvg-name="Звезда Плюс" tvg-logo="https://iptv.pm/images/ico/zvezda-plus.png" ,Звезда Плюс
+#EXTGRP:Россия
+http://ua.online24.pm/play/197/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny" tvg-name="Домашний" tvg-logo="https://iptv.pm/epg/icon/domashny.png"  tvg-rec="5" timeshift="5",Домашний
+#EXTGRP:Россия
+http://ua.online24.pm/play/115/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xzvezda-pl7" tvg-name="Звезда +7" tvg-logo="https://iptv.pm/images/epg/7113.png?v1788020811" ,Звезда +7
+#EXTGRP:Россия
+http://ua.online24.pm/play/51487/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny" tvg-name="Домашний HD" tvg-logo="https://iptv.pm/epg/icon/domashny.png" ,Домашний HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/275/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny-pl4" tvg-name="Домашний +4" tvg-logo="https://iptv.pm/images/ico/domashny-pl4.png" ,Домашний +4
+#EXTGRP:Россия
+http://ua.online24.pm/play/130/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xdomashny-pl2" tvg-name="Домашний +2" tvg-logo="https://iptv.pm/images/ico/domashny-pl2.png" ,Домашний +2
+#EXTGRP:Россия
+http://ua.online24.pm/play/128/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xsevastopol-24" tvg-name="Севастополь 24 HD" tvg-logo="https://iptv.pm/images/ico/sevastopol-24.png" ,Севастополь 24 HD
+#EXTGRP:Россия
+http://ua.online24.pm/play/955/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xkrym24" tvg-name="КРЫМ 24" tvg-logo="https://iptv.pm/epg/icon/krym24.png"  tvg-rec="5" timeshift="5",КРЫМ 24
+#EXTGRP:Россия
+http://ua.online24.pm/play/3904/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xpervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://iptv.pm/epg/icon/pervy-krymsky.png"  tvg-rec="5" timeshift="5",Первый Крымский
+#EXTGRP:Россия
+http://ua.online24.pm/play/3779/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xnts-sevastopol" tvg-name="НТС Севастополь" tvg-logo="https://iptv.pm/
