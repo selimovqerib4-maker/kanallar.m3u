@@ -722,5 +722,5 @@ http://ua.online24.pm/play/3904/FF2E7C222919825/video.m3u8
 #EXTINF:0 tvg-id="Xpervy-krymsky" tvg-name="Первый Крымский" tvg-logo="https://iptv.pm/epg/icon/pervy-krymsky.png"  tvg-rec="5" timeshift="5",Первый Крымский
 #EXTGRP:Россия
 http://ua.online24.pm/play/3779/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="Xnts-sevastopol" tvg-name="НТС Севастополь" tvg-logo="https://iptv.pm/
+#EXTINF:0 tvg-id="Xnts-sevastopol" tvg-name="НТС Севастополь" tvg-logo="https://iptv.pm/ping
 #EXTINF:-1http://45.159.94.49:8080/play/live.php?mac=00:1A:79:0F:46:C6&stream=632449&extension=ts
