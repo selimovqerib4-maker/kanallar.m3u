@@ -3,7 +3,7 @@
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 group-title="Azərbaycan",Xəzər Tv
 http://ua.online24.pm/play/440/FF2E7C222919825/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan
+#EXTINF:-1 group-title="Azərbaycan", Space Tv
 #EXTINF:-1 tvg-name="Space Tv 1" group-title="Guruhlanmagan",Space Tv 1
 http://bigbosstv.live:8080/live/live:iptvtree/DNKIsU0W6VIFxhzW/34976.ts
 #EXTINF:-1 group-title="Azərbaycan",Baku Tv Xəbər
