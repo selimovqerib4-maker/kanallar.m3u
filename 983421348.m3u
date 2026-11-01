@@ -345,22 +345,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&ext
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471694&extension=ts&play_token=gUDQpjYD0L
 #EXTINF:-1 tvg-name="SINEMA TV 1001" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema",SINEMA TV 1001
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471686&extension=ts&play_token=yPA99fo4XP
-#EXTINF:-1 tvg-name="SINEMA TV YERLI 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema",SINEMA TV YERLI 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
-#EXTINF:-1 tvg-name="EPIC DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema",EPIC DRAMA
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471701&extension=ts&play_token=POSWGUQYoB
-#EXTINF:-1 tvg-name="SINEMA TV AILE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema",SINEMA TV AILE 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471691&extension=ts&play_token=bcbMRdaja4
-#EXTINF:-1 tvg-name="FX" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema",FX
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471702&extension=ts&play_token=cbcl7gAM4x
-#EXTINF:-1 tvg-name="TIVI 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema",TIVI 6
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471703&extension=ts&play_token=d61TdntQCe
-#EXTINF:-1 tvg-name="CINE 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema",CINE 6
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471697&extension=ts&play_token=fBblcTNf3r
-#EXTINF:-1 tvg-name="SINEMA TV AKSIYON" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema",SINEMA TV AKSIYON
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471692&extension=ts&play_token=JrSdLylyR5
-#EXTINF:-1 tvg-name="SINEMA TV 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema",SINEMA TV 2
-http://me.mdmfista.com:80/play/live
+#EX
 #EXTM3U
 #EXTINF:-1 tvg-id="TrtBelgeselQhd.tr" tvg-name="TRT BELGESEL QHD" group-title="Belgesel",TRT BELGESEL QHD
 http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92046
