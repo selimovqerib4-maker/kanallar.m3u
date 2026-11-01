@@ -199,6 +199,586 @@ https://canli.gopsentv.com:3604/stream/play.m3u8
 #EXTINF:-1 tvg-name="Begen Tv" group-title="Türk",Begen Tv
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="KemalSunal1.tr" tvg-name="KEMAL SUNAL 1" group-title="Sinema",KEMAL SUNAL 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92460
+#EXTINF:-1 tvg-id="KemalSunal2.tr" tvg-name="KEMAL SUNAL 2" group-title="Sinema",KEMAL SUNAL 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92461
+#EXTINF:-1 tvg-id="KemalSunal3.tr" tvg-name="KEMAL SUNAL 3" group-title="Sinema",KEMAL SUNAL 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92462
+#EXTINF:-1 tvg-id="KemalSunal4.tr" tvg-name="KEMAL SUNAL 4" group-title="Sinema",KEMAL SUNAL 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92463
+#EXTINF:-1 tvg-id="KemalSunal1.tr" tvg-name="Kemal Sunal 1" group-title="Sinema",Kemal Sunal 5
+https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
+#EXTINF:-1 tvg-id="KemalSunal3.tr" tvg-name="Kemal Sunal 3" group-title="Sinema",Kemal Sunal 6
+https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8
+#EXTINF:-1 tvg-id="HababamSinifi.tr" tvg-name="HABABAM SINIFI" group-title="Sinema",HABABAM SINIFI
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92459
+#EXTINF:-1 tvg-name="Yansima Nostalji" group-title="Sinema",Yansima Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 tvg-name="Max Dizi" group-title="Sinema",Max Dizi
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
+#EXTINF:-1 tvg-name="Maxpremier" group-title="Sinema",Maxpremier
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 tvg-name="Maxyerli" group-title="Sinema",Maxyerli
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 tvg-name="Max Tv HD" group-title="Sinema",Max Tv HD
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sinema Nostalji" group-title="Sinema",Sinema Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-name="kurtlar vadisi" group-title="Sinema",kurtlar vadisi
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/kurtlar-vadisi-pusu.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Turk HD [TR]" group-title="Sinema",beIN Movies Turk HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6966/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="DiziSmart Max HD [TR]" group-title="Sinema",DiziSmart Max HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6976/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="MovieSmart Classic [TR]" group-title="Sinema",MovieSmart Classic [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7894/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="MovieSmart Türk HD [TR]" group-title="Sinema",MovieSmart Türk HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/6994/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="Sinema 1001 HD [TR]" group-title="Sinema",Sinema 1001 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7001/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="Sinema 1002 HD [TR]" group-title="Sinema",Sinema 1002 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7002/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="Sinema Aile 2 HD [TR]" group-title="Sinema",Sinema Aile 2 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7003/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="Sinema Aile HD [TR]" group-title="Sinema",Sinema Aile HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7004/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="Sinema Komedi 2 HD [TR]" group-title="Sinema",Sinema Komedi 2 HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7006/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="Sinema Komedi HD [TR]" group-title="Sinema",Sinema Komedi HD [TR]
+http://138.16.142.113:2095/ext/xp-80d90db38f/7007/index.m3u8?token=850fa725e6c30f0b51e6abeb36ee0d5da80fba12
+#EXTINF:-1 tvg-name="BEIN SERIES 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-name="BEIN SERIES 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-name="TIVIONE MOVIES TURK" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471700&extension=ts&play_token=i0YM1UnDab
+#EXTINF:-1 tvg-name="TIVIONE MOVIES PREMIERE" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-name="BEIN SERIES 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 4
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-name="TIVIONE MOVIES PREMIERE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-name="TIVIONE MOVIES STARS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Sinema",TIVIONE MOVIES STARS
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-name="BEIN SERIES 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",BEIN SERIES 3
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-name="TIVIONE MOVIES ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Sinema",TIVIONE MOVIES ACTION
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-name="TIVIONE SERIES 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471673&extension=ts&play_token=fDOWsHHnSf
+#EXTINF:-1 tvg-name="TIVIONE SERIES 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471676&extension=ts&play_token=x3dLMvs808
+#EXTINF:-1 tvg-name="TIVIONE SERIES 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471674&extension=ts&play_token=5gfhIkzuQg
+#EXTINF:-1 tvg-name="TIVIONE MOVIES PREMIERE" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-name="TIVIONE SERIES 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Sinema",TIVIONE SERIES 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471675&extension=ts&play_token=gzHjnGWvXz
+#EXTINF:-1 tvg-name="TIVIONE MOVIES STARS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Sinema",TIVIONE MOVIES STARS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-name="TIVIONE MOVIES TURK" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-name="TIVIONE MOVIES ACTION" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Sinema",TIVIONE MOVIES ACTION
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-name="TIVIONE MOVIES PREMIERE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471700&extension=ts&play_token=i0YM1UnDab
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON 2.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471693&extension=ts&play_token=dXcImR2VOm
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema",SINEMA TV AKSIYON
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471692&extension=ts&play_token=JrSdLylyR5
+#EXTINF:-1 tvg-name="MOVIESMART TÜRK" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema",MOVIESMART TÜRK
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema",SINEMA TV AILE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471691&extension=ts&play_token=bcbMRdaja4
+#EXTINF:-1 tvg-name="SINEMA TV 1001" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema",SINEMA TV 1001
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471686&extension=ts&play_token=yPA99fo4XP
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471689&extension=ts&play_token=rlz9LlxLPS#EXTINF:-1 tvg-name="MOVIESMART CLASSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema",MOVIESMART CLASSIC
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471684&extension=ts&play_token=txJYZNZE6k
+#EXTINF:-1 tvg-name="CINE 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema",CINE 6
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471697&extension=ts&play_token=fBblcTNf3r
+#EXTINF:-1 tvg-name="FX" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema",FX
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471702&extension=ts&play_token=cbcl7gAM4x
+#EXTINF:-1 tvg-name="SINEMA TV 1002" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema",SINEMA TV 1002
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471687&extension=ts&play_token=HzhZ6vEhES
+#EXTINF:-1 tvg-name="DIZISMART MAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema",DIZISMART MAX
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
+#EXTINF:-1 tvg-name="SINEMA TV AILE" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema",SINEMA TV AILE
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471690&extension=ts&play_token=XkCHN9quwY
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema",SINEMA TV KOMEDI
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471694&extension=ts&play_token=gUDQpjYD0L
+#EXTINF:-1 tvg-name="TIVI 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema",TIVI 6
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471703&extension=ts&play_token=d61TdntQCe
+#EXTINF:-1 tvg-name="SINEMA TV YERLI 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema",SINEMA TV YERLI 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
+#EXTINF:-1 tvg-name="EPIC DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema",EPIC DRAMA
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1 tvg-name="MOVIESMART CLASSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema",MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
+#EXTINF:-1 tvg-name="SINEMA TV AILE" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema",SINEMA TV AILE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471690&extension=ts&play_token=XkCHN9quwY
+#EXTINF:-1 tvg-name="SINEMA TVSINEMA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV.png" group-title="Sinema",SINEMA TVSINEMA TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471688&extension=ts&play_token=uLYwagAIiW
+#EXTINF:-1 tvg-name="MOVIESMART TÜRK" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema",MOVIESMART TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-name="SINEMA TV 1002" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema",SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471687&extension=ts&play_token=HzhZ6vEhES
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON 2.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471693&extension=ts&play_token=dXcImR2VOm
+#EXTINF:-1 tvg-name="DIZISMART MAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema",SINEMA TV KOMEDI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471694&extension=ts&play_token=gUDQpjYD0L
+#EXTINF:-1 tvg-name="SINEMA TV 1001" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema",SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471686&extension=ts&play_token=yPA99fo4XP
+#EXTINF:-1 tvg-name="SINEMA TV YERLI 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema",SINEMA TV YERLI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
+#EXTINF:-1 tvg-name="EPIC DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema",EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema",SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471691&extension=ts&play_token=bcbMRdaja4
+#EXTINF:-1 tvg-name="FX" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema",FX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471702&extension=ts&play_token=cbcl7gAM4x
+#EXTINF:-1 tvg-name="TIVI 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema",TIVI 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471703&extension=ts&play_token=d61TdntQCe
+#EXTINF:-1 tvg-name="CINE 6" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema",CINE 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471697&extension=ts&play_token=fBblcTNf3r
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema",SINEMA TV AKSIYON
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471692&extension=ts&play_token=JrSdLylyR5
+#EXTINF:-1 tvg-name="SINEMA TV 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema",SINEMA TV 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
+#EXTINF:-1 tvg-name="DENİZ POSTASI" tvg-logo="https://i.postimg.cc/W3LFzchs/images-removebg-preview-(3).png" group-title="Sinema",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-name="ŞABAN TV" tvg-logo="https://i.postimg.cc/cCVQN9PB/38333581-ico.png" group-title="Sinema",ŞABAN TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
+#EXTINF:-1 tvg-name="CİNE5 TV" tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="Sinema",CİNE5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="YANSIMA NOSTALJİ TV" tvg-logo="https://i.postimg.cc/ZnfBM4Bb/38842185-ico.png" group-title="Sinema",YANSIMA NOSTALJİ TV
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 tvg-name="YANSIMA SİNEMA TV" tvg-logo="https://i.postimg.cc/dV3mvSwf/38332657-ico.png" group-title="Sinema",YANSIMA SİNEMA TV
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-name="TELEZEN" tvg-logo="https://i.postimg.cc/d0YrbxXS/12029-removebg-preview.png" group-title="Sinema",TELEZEN
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/telezentvchannel.m3u8
+#EXTINF:-1 tvg-name="CENNET MAHALLESİ TV" tvg-logo="https://i.postimg.cc/4ySpcvvF/37593099-ico.png" group-title="Sinema",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-name="BAŞKA TV" tvg-logo="https://i.postimg.cc/RFjW271w/37606681-ico.png" group-title="Sinema",BAŞKA TV
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/baska-tv.m3u8
+#EXTINF:-1 tvg-name="MOVİE SMART TÜRK" tvg-logo="https://i.postimg.cc/QCyJxgGz/5a2e2180402eb771a49592a8-removebg-preview.png" group-title="Sinema",MOVİE SMART TÜRK
+http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8
+#EXTINF:-1 tvg-name="MOVİE SMART CLASSİC" tvg-logo="https://i.postimg.cc/vmjkCM3g/Movie-Smart-Classic-logo.png" group-title="Sinema",MOVİE SMART CLASSİC
+https://nord.ayakkabiparti.lol/mvturk/index.m3u8
+#EXTINF:-1 tvg-name="TIVIONE SERIES 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197150&extension=ts&play_token=Qyg7xZtKPS
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197154&extension=ts&play_token=DhHmxaaEy1
+#EXTINF:-1 tvg-name="TIVIONE MOVIES TURK" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/TiviOneENTERTAINMENT/TiviOne-movies-183472.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197155&extension=ts&play_token=bGp1orGGzP
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197152&extension=ts&play_token=fkElbmWwon
+#EXTINF:-1 tvg-name="DIZISMART PREMIUM" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DiziSmartPremium.tr.png" group-title="Sinema",DIZISMART PREMIUM
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197141&extension=ts&play_token=DviKGVpwou
+#EXTINF:-1 tvg-name="SINEMA TV 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197130&extension=ts&play_token=OGpmnWnGk8
+#EXTINF:-1 tvg-name="TIVIONE MOVIES PREMIERE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197142&extension=ts&play_token=a2Cuv0JYUx
+#EXTINF:-1 tvg-name="TIVIONE SERIES 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197148&extension=ts&play_token=AZ1nfBwDC5
+#EXTINF:-1 tvg-name="TIVIONE BOX OFFICE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197153&extension=ts&play_token=X6RnnsIbuZ#EXTINF:-1 tvg-name="MOVIESMART CLASSIC" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197139&extension=ts&play_token=ZOc5rxcKi6
+#EXTINF:-1 tvg-name="MOVIESMART TURK" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
+#EXTINF:-1 tvg-name="TIVIONE SERIES 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197146&extension=ts&play_token=1rohPQEEBT
+#EXTINF:-1 tvg-name="TIVIONE MOVIES PREMIERE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197143&extension=ts&play_token=TIWsWdf93Z
+#EXTINF:-1 tvg-name="SINEMA TV 1001" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197121&extension=ts&play_token=jNoNfQTSEm
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197133&extension=ts&play_token=vz7x3ifk8a
+#EXTINF:-1 tvg-name="SINEMA TV AILE 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197131&extension=ts&play_token=X9NOzCl3Xm
+#EXTINF:-1 tvg-name="SINEMA TV 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
+#EXTINF:-1 tvg-name="SINEMA TV 1002" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197120&extension=ts&play_token=4qs9Rb6Vm6
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197134&extension=ts&play_token=nFUwnunQ3l
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197125&extension=ts&play_token=WptkWfQkrP
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197126&extension=ts&play_token=VsyScjJNVY
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197132&extension=ts&play_token=Bbe8LhucdQ
+#EXTINF:-1 tvg-name="DIZISMART MAX" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart.png" group-title="Sinema",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-name="EPIC DRAMA" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/640px-Epic-Drama.png" group-title="Sinema",EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197138&extension=ts&play_token=3Go4nzhX4j
+#EXTINF:-1 tvg-name="AKSIYON 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275555&extension=ts&play_token=BbF3r8bw7o
+#EXTINF:-1 tvg-name="ANIMASYON 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",ANIMASYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275551&extension=ts&play_token=YeRpHQHMzk
+#EXTINF:-1 tvg-name="007" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",007
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275556&extension=ts&play_token=AsvfA7NRVh
+#EXTINF:-1 tvg-name="ANIMASYON 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",ANIMASYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275552&extension=ts&play_token=lnbal16Vw4
+#EXTINF:-1 tvg-name="GOLD MIX" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",GOLD MIX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275547&extension=ts&play_token=yiqhpbRr9y
+#EXTINF:-1 tvg-name="BILIMKURGU 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",BILIMKURGU 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275549&extension=ts&play_token=sS6qnbf9WS
+#EXTINF:-1 tvg-name="AKSIYON 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275553&extension=ts&play_token=QU7r6URZrk
+#EXTINF:-1 tvg-name="SINEMA TURK 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275544&extension=ts&play_token=wA6QY45vj9
+#EXTINF:-1 tvg-name="AKSIYON 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275554&extension=ts&play_token=OnNqa4ssRA
+#EXTINF:-1 tvg-name="KOMEDI 90 LAR" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",KOMEDI 90 LAR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275546&extension=ts&play_token=ujH7Iw3UE8
+#EXTINF:-1 tvg-name="SINEMA TURK 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275543&extension=ts&play_token=2APIfT5XtQ
+#EXTINF:-1 tvg-name="MARVEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",MARVEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275545&extension=ts&play_token=qOEYLQZfmH
+#EXTINF:-1 tvg-name="BELGESEL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",BELGESEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275550&extension=ts&play_token=yPElqMB2sf
+#EXTINF:-1 tvg-name="BILIMKURGU 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",BILIMKURGU 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275548&extension=ts&play_token=wRb3k4U8uQ
+#EXTINF:-1 tvg-name="YESILCAM" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",YESILCAM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275538&extension=ts&play_token=mWD5CVqTPt
+#EXTINF:-1 tvg-name="SINEMA TURK 3" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275542&extension=ts&play_token=ONhvMMDFFm
+#EXTINF:-1 tvg-name="VIZYON 2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",VIZYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275539&extension=ts&play_token=Ggsjm8WaZW
+#EXTINF:-1 tvg-name="VIZYON 1" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",VIZYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275540&extension=ts&play_token=JWxABnpL0I
+#EXTINF:-1 tvg-name="REDBOX 24 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="Sinema",REDBOX 24 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275583&extension=ts&play_token=Vrd8vPfRol
+#EXTINF:-1 tvg-id="SinemaTvQhd.tr" tvg-name="SINEMA TV QHD" group-title="Sinema",SINEMA TV QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92067
+#EXTINF:-1 tvg-id="Sinema2Qhd.tr" tvg-name="SINEMA 2 QHD" group-title="Sinema",SINEMA 2 QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92060
+#EXTINF:-1 tvg-id="SinemaAileQhd.tr" tvg-name="SINEMA AILE QHD" group-title="Sinema",SINEMA AILE QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92063
+#EXTINF:-1 tvg-id="SinemaAile2Qhd.tr" tvg-name="SINEMA AILE 2 QHD" group-title="Sinema",SINEMA AILE 2 QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92064
+#EXTINF:-1 tvg-id="SinemaKomediQhd.tr" tvg-name="SINEMA KOMEDI QHD" group-title="Sinema",SINEMA KOMEDI QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92065
+#EXTINF:-1 tvg-id="SinemaKomedi2Qhd.tr" tvg-name="SINEMA KOMEDI 2 QHD" group-title="Sinema",SINEMA KOMEDI 2 QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92066
+#EXTINF:-1 tvg-id="SinemaAksiyonQhd.tr" tvg-name="SINEMA AKSIYON QHD" group-title="Sinema",SINEMA AKSIYON QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92061
+#EXTINF:-1 tvg-id="SinemaAksiyon2Qhd.tr" tvg-name="SINEMA AKSIYON 2 QHD" group-title="Sinema",SINEMA AKSIYON 2 QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92062
+#EXTINF:-1 tvg-id="Sinema1001Qhd.tr" tvg-name="SINEMA 1001 QHD" group-title="Sinema",SINEMA 1001 QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92058
+#EXTINF:-1 tvg-id="Sinema1002Qhd.tr" tvg-name="SINEMA 1002 QHD" group-title="Sinema",SINEMA 1002 QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92059
+#EXTINF:-1 tvg-id="MovieSmartTurkQhd.tr" tvg-name="MOVIE SMART TURK QHD" group-title="Sinema",MOVIE SMART TURK QHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92081
+#EXTINF:-1 tvg-id="EiMoviesPremiere2Hd.tr" tvg-name="βĘIŊ MOVIES PREMIERE 2 HD" group-title="Sinema",βĘIŊ MOVIES PREMIERE 2 HD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/114
+#EXTINF:-1 tvg-id="EiMoviesTurkFhd.tr" tvg-name="βĘIŊ MOVIES TURK FHD" group-title="Sinema",βĘIŊ MOVIES TURK FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/125
+#EXTINF:-1 tvg-id="DiziSmartMaxFhd.tr" tvg-name="DIZI SMART MAX FHD" group-title="Sinema",DIZI SMART MAX FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/71
+#EXTINF:-1 tvg-id="MovieSmartTurkFhd.tr" tvg-name="MOVIE SMART TURK FHD" group-title="Sinema",MOVIE SMART TURK FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/67
+#EXTINF:-1 tvg-id="MovieSmartClassicHd.tr" tvg-name="MOVIE SMART CLASSIC HD" group-title="Sinema",MOVIE SMART CLASSIC HD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/64
+#EXTINF:-1 tvg-id="SinemaTvFhd.tr" tvg-name="SINEMA TV FHD" group-title="Sinema",SINEMA TV FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/99
+#EXTINF:-1 tvg-id="Sinema2Fhd.tr" tvg-name="SINEMA 2 FHD" group-title="Sinema",SINEMA 2 FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/97
+#EXTINF:-1 tvg-id="Sinema1001Hd.tr" tvg-name="SINEMA 1001 HD" group-title="Sinema",SINEMA 1001 HD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/78
+#EXTINF:-1 tvg-id="SinemaAileFhd.tr" tvg-name="SINEMA AILE FHD" group-title="Sinema",SINEMA AILE FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/91
+#EXTINF:-1 tvg-id="SinemaAksiyon2Fhd.tr" tvg-name="SINEMA AKSIYON 2 FHD" group-title="Sinema",SINEMA AKSIYON 2 FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/85
+#EXTINF:-1 tvg-id="SinemaYerli2Fhd.tr" tvg-name="SINEMA YERLI 2 FHD" group-title="Sinema",SINEMA YERLI 2 FHD
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/93
+#EXTINF:-1 tvg-id="BestOfImdb.tr" tvg-name="BEST of IMDB" group-title="Sinema",BEST of IMDB
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92301
+#EXTINF:-1 tvg-id="Cineplay1.tr" tvg-name="CINEPLAY 1" group-title="Sinema",CINEPLAY 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92343
+#EXTINF:-1 tvg-id="Cineplay2.tr" tvg-name="CINEPLAY 2" group-title="Sinema",CINEPLAY 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92344
+#EXTINF:-1 tvg-id="Cineplay3.tr" tvg-name="CINEPLAY 3" group-title="Sinema",CINEPLAY 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92345
+#EXTINF:-1 tvg-id="Cineplay4.tr" tvg-name="CINEPLAY 4" group-title="Sinema",CINEPLAY 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92346
+#EXTINF:-1 tvg-id="Cineplay5.tr" tvg-name="CINEPLAY 5" group-title="Sinema",CINEPLAY 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92347
+#EXTINF:-1 tvg-id="Cineplay15.tr" tvg-name="CINEPLAY 15" group-title="Sinema",CINEPLAY 15
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92357
+#EXTINF:-1 tvg-id="Cineturk4.tr" tvg-name="CINETURK 4" group-title="Sinema",CINETURK 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92374
+#EXTINF:-1 tvg-id="CineverseAksiyon6.tr" tvg-name="CINEVERSE AKSİYON 6" group-title="Sinema",CINEVERSE AKSİYON 6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92314
+#EXTINF:-1 tvg-id="CineverseAksiyon7.tr" tvg-name="CINEVERSE AKSİYON 7" group-title="Sinema",CINEVERSE AKSİYON 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92315
+#EXTINF:-1 tvg-id="CineverseBilimkurgu1.tr" tvg-name="CINEVERSE BİLİMKURGU 1" group-title="Sinema",CINEVERSE BİLİMKURGU 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92324
+#EXTINF:-1 tvg-id="CineverseBilimkurgu2.tr" tvg-name="CINEVERSE BİLİMKURGU 2" group-title="Sinema",CINEVERSE BİLİMKURGU 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92325
+#EXTINF:-1 tvg-id="CineverseBilimkurgu4.tr" tvg-name="CINEVERSE BİLİMKURGU 4" group-title="Sinema",CINEVERSE BİLİMKURGU 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92327#EXTINF:-1 tvg-id="CineverseFantasy1.tr" tvg-name="CINEVERSE FANTASY 1" group-title="Sinema",CINEVERSE FANTASY 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92316
+#EXTINF:-1 tvg-id="CineverseFantasy2.tr" tvg-name="CINEVERSE FANTASY 2" group-title="Sinema",CINEVERSE FANTASY 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92317
+#EXTINF:-1 tvg-id="CineverseFantasy4.tr" tvg-name="CINEVERSE FANTASY 4" group-title="Sinema",CINEVERSE FANTASY 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92319
+#EXTINF:-1 tvg-id="CineverseFantasy7.tr" tvg-name="CINEVERSE FANTASY 7" group-title="Sinema",CINEVERSE FANTASY 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92322
+#EXTINF:-1 tvg-id="CineverseKorku1.tr" tvg-name="CINEVERSE KORKU 1" group-title="Sinema",CINEVERSE KORKU 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92330
+#EXTINF:-1 tvg-id="CineverseKorku2.tr" tvg-name="CINEVERSE KORKU 2" group-title="Sinema",CINEVERSE KORKU 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92331
+#EXTINF:-1 tvg-id="CineverseKorku3.tr" tvg-name="CINEVERSE KORKU 3" group-title="Sinema",CINEVERSE KORKU 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92332
+#EXTINF:-1 tvg-id="CineverseKorku4.tr" tvg-name="CINEVERSE KORKU 4" group-title="Sinema",CINEVERSE KORKU 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92333
+#EXTINF:-1 tvg-id="CineverseKorku6.tr" tvg-name="CINEVERSE KORKU 6" group-title="Sinema",CINEVERSE KORKU 6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92335
+#EXTINF:-1 tvg-id="CineverseKorku7.tr" tvg-name="CINEVERSE KORKU 7" group-title="Sinema",CINEVERSE KORKU 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92336
+#EXTINF:-1 tvg-id="CineverseKorku8.tr" tvg-name="CINEVERSE KORKU 8" group-title="Sinema",CINEVERSE KORKU 8
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92337
+#EXTINF:-1 tvg-id="CineverseMarvel1.tr" tvg-name="CINEVERSE MARVEL 1" group-title="Sinema",CINEVERSE MARVEL 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92338
+#EXTINF:-1 tvg-id="CineverseMarvel2.tr" tvg-name="CINEVERSE MARVEL 2" group-title="Sinema",CINEVERSE MARVEL 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92339
+#EXTINF:-1 tvg-id="CineverseMarvel3.tr" tvg-name="CINEVERSE MARVEL 3" group-title="Sinema",CINEVERSE MARVEL 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92340
+#EXTINF:-1 tvg-id="CineverseMarvel4.tr" tvg-name="CINEVERSE MARVEL 4" group-title="Sinema",CINEVERSE MARVEL 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92341
+#EXTINF:-1 tvg-id="CineverseMarvel5.tr" tvg-name="CINEVERSE MARVEL 5" group-title="Sinema",CINEVERSE MARVEL 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92342
+#EXTINF:-1 tvg-id="CineverseVizyon1.tr" tvg-name="CINEVERSE VİZYON 1" group-title="Sinema",CINEVERSE VİZYON 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92302
+#EXTINF:-1 tvg-id="CineverseVizyon2.tr" tvg-name="CINEVERSE VİZYON 2" group-title="Sinema",CINEVERSE VİZYON 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92303
+#EXTINF:-1 tvg-id="CineverseVizyon3.tr" tvg-name="CINEVERSE VİZYON 3" group-title="Sinema",CINEVERSE VİZYON 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92304
+#EXTINF:-1 tvg-id="CineverseVizyon4.tr" tvg-name="CINEVERSE VİZYON 4" group-title="Sinema",CINEVERSE VİZYON 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92305
+#EXTINF:-1 tvg-id="CineverseVizyon5.tr" tvg-name="CINEVERSE VİZYON 5" group-title="Sinema",CINEVERSE VİZYON 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92306
+#EXTINF:-1 tvg-id="CineverseVizyon6.tr" tvg-name="CINEVERSE VİZYON 6" group-title="Sinema",CINEVERSE VİZYON 6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92307
+#EXTINF:-1 tvg-id="CineverseVizyon7.tr" tvg-name="CINEVERSE VİZYON 7" group-title="Sinema",CINEVERSE VİZYON 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92308
+#EXTINF:-1 tvg-id="CineverseVizyon7.tr" tvg-name="CINEVERSE VİZYON 7" group-title="Sinema",CINEVERSE VİZYON 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92308
+#EXTINF:-1 tvg-id="SalonVip1.tr" tvg-name="SALON VIP 1" group-title="Sinema",SALON VIP 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92358
+#EXTINF:-1 tvg-id="SalonVip2.tr" tvg-name="SALON VIP 2" group-title="Sinema",SALON VIP 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92359
+#EXTINF:-1 tvg-id="SalonVip3.tr" tvg-name="SALON VIP 3" group-title="Sinema",SALON VIP 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92360
+#EXTINF:-1 tvg-id="SalonVip4.tr" tvg-name="SALON VIP 4" group-title="Sinema",SALON VIP 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92361
+#EXTINF:-1 tvg-id="SalonVip5.tr" tvg-name="SALON VIP 5" group-title="Sinema",SALON VIP 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92362
+#EXTINF:-1 tvg-id="SalonVip6.tr" tvg-name="SALON VIP 6" group-title="Sinema",SALON VIP 6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92363
+#EXTINF:-1 tvg-id="SalonVip7.tr" tvg-name="SALON VIP 7" group-title="Sinema",SALON VIP 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92364
+#EXTINF:-1 tvg-id="SalonVip8.tr" tvg-name="SALON VIP 8" group-title="Sinema",SALON VIP 8
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92365
+#EXTINF:-1 tvg-id="SalonVip9.tr" tvg-name="SALON VIP 9" group-title="Sinema",SALON VIP 9
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92366
+#EXTINF:-1 tvg-id="SalonVip10.tr" tvg-name="SALON VIP 10" group-title="Sinema",SALON VIP 10
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92367
+#EXTINF:-1 tvg-id="SalonVip11.tr" tvg-name="SALON VIP 11" group-title="Sinema",SALON VIP 11
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92368
+#EXTINF:-1 tvg-id="SalonVip12.tr" tvg-name="SALON VIP 12" group-title="Sinema",SALON VIP 12
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92369
+#EXTINF:-1 tvg-id="SalonVip13.tr" tvg-name="SALON VIP 13" group-title="Sinema",SALON VIP 13
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92370
+#EXTINF:-1 tvg-id="VizyonTurk1.tr" tvg-name="VİZYON TÜRK 1" group-title="Sinema",VİZYON TÜRK 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92371
+#EXTINF:-1 tvg-id="VizyonTurk2.tr" tvg-name="VİZYON TÜRK 2" group-title="Sinema",VİZYON TÜRK 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92372
+#EXTINF:-1 tvg-id="VizyonTurk3.tr" tvg-name="VİZYON TÜRK 3" group-title="Sinema",VİZYON TÜRK 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92373
+#EXTINF:-1 tvg-id="Vizyon1.tr" tvg-name="Vizyon 1 ʜᴅ" group-title="Sinema",Vizyon 1 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92396
+#EXTINF:-1 tvg-id="Vizyon2.tr" tvg-name="Vizyon 2 ʜᴅ" group-title="Sinema",Vizyon 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92397
+#EXTINF:-1 tvg-id="Vizyon3.tr" tvg-name="Vizyon 3 ʜᴅ" group-title="Sinema",Vizyon 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92398
+#EXTINF:-1 tvg-id="Vizyon4.tr" tvg-name="Vizyon 4 ʜᴅ" group-title="Sinema",Vizyon 4 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92399
+#EXTINF:-1 tvg-id="KemalSunal1.tr" tvg-name="KEMAL SUNAL 1" group-title="Sinema",KEMAL SUNAL 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92460
+#EXTINF:-1 tvg-id="KemalSunal2.tr" tvg-name="KEMAL SUNAL 2" group-title="Sinema",KEMAL SUNAL 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92461
+#EXTINF:-1 tvg-id="ZekiMetin.tr" tvg-name="ZEKİ & METİN" group-title="Sinema",ZEKİ & METİN
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92474
+#EXTINF:-1 tvg-id="YesilcamLoca7.tr" tvg-name="YEŞİLÇAM LOCA  7" group-title="Sinema",YEŞİLÇAM LOCA  7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92500
+#EXTINF:-1 tvg-id="YesilcamLoca6.tr" tvg-name="YEŞİLÇAM LOCA  6" group-title="Sinema",YEŞİLÇAM LOCA  6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92499
+#EXTINF:-1 tvg-id="YesilcamLoca5.tr" tvg-name="YEŞİLÇAM LOCA  5" group-title="Sinema",YEŞİLÇAM LOCA  5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92498
+#EXTINF:-1 tvg-id="YesilcamLoca4.tr" tvg-name="YEŞİLÇAM LOCA  4" group-title="Sinema",YEŞİLÇAM LOCA  4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92497
+#EXTINF:-1 tvg-id="YesilcamLoca3.tr" tvg-name="YEŞİLÇAM LOCA  3" group-title="Sinema",YEŞİLÇAM LOCA  3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92496
+#EXTINF:-1 tvg-id="YesilcamLoca2.tr" tvg-name="YEŞİLÇAM LOCA  2" group-title="Sinema",YEŞİLÇAM LOCA  2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92495
+#EXTINF:-1 tvg-id="YesilcamLoca1.tr" tvg-name="YEŞİLÇAM LOCA  1" group-title="Sinema",YEŞİLÇAM LOCA  1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92494
+#EXTINF:-1 tvg-id="TurkanSoray1.tr" tvg-name="TÜRKAN ŞORAY 1" group-title="Sinema",TÜRKAN ŞORAY 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92485
+#EXTINF:-1 tvg-id="TurkanSoray2.tr" tvg-name="TÜRKAN ŞORAY 2" group-title="Sinema",TÜRKAN ŞORAY 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92486
+#EXTINF:-1 tvg-id="NostaljiLoca4.tr" tvg-name="NOSTALJİ  LOCA 4" group-title="Sinema",NOSTALJİ  LOCA 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92504
+#EXTINF:-1 tvg-id="NostaljiLoca3.tr" tvg-name="NOSTALJİ  LOCA 3" group-title="Sinema",NOSTALJİ  LOCA 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92503
+#EXTINF:-1 tvg-id="NostaljiLoca2.tr" tvg-name="NOSTALJİ  LOCA 2" group-title="Sinema",NOSTALJİ  LOCA 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92502
+#EXTINF:-1 tvg-id="NostaljiLoca1.tr" tvg-name="NOSTALJİ  LOCA 1" group-title="Sinema",NOSTALJİ  LOCA 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92501
+#EXTINF:-1 tvg-id="AngelinaJolie.tr" tvg-name="Angelina Jolie" group-title="Sinema",Angelina Jolie
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92443
+#EXTINF:-1 tvg-id="Vizyon1.tr" tvg-name="Vizyon 1 ʜᴅ" group-title="Sinema",Vizyon 1 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92396
+#EXTINF:-1 tvg-id="Vizyon2.tr" tvg-name="Vizyon 2 ʜᴅ" group-title="Sinema",Vizyon 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92397
+#EXTINF:-1 tvg-id="Vizyon3.tr" tvg-name="Vizyon 3 ʜᴅ" group-title="Sinema",Vizyon 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92398
+#EXTINF:-1 tvg-id="Vizyon4.tr" tvg-name="Vizyon 4 ʜᴅ" group-title="Sinema",Vizyon 4 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92399
+#EXTINF:-1 tvg-id="Loca11.tr" tvg-name="LOCA 11 ʜᴅ" group-title="Sinema",LOCA 11 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92441
+#EXTINF:-1 tvg-id="Loca10.tr" tvg-name="LOCA 10 ʜᴅ" group-title="Sinema",LOCA 10 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92440
+#EXTINF:-1 tvg-id="Loca9.tr" tvg-name="LOCA 9 ʜᴅ" group-title="Sinema",LOCA 9 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92439
+#EXTINF:-1 tvg-id="Loca8.tr" tvg-name="LOCA 8 ʜᴅ" group-title="Sinema",LOCA 8 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92438
+#EXTINF:-1 tvg-id="Loca7.tr" tvg-name="LOCA 7 ʜᴅ" group-title="Sinema",LOCA 7 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92437
+#EXTINF:-1 tvg-id="Loca6.tr" tvg-name="LOCA 6 ʜᴅ" group-title="Sinema",LOCA 6 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92436
+#EXTINF:-1 tvg-id="Loca5.tr" tvg-name="Loca 5 ʜᴅ" group-title="Sinema",Loca 5 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92435
+#EXTINF:-1 tvg-id="Loca4.tr" tvg-name="Loca 4 ʜᴅ" group-title="Sinema",Loca 4 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92434
+#EXTINF:-1 tvg-id="Loca3.tr" tvg-name="Loca 3 ʜᴅ" group-title="Sinema",Loca 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92433
+#EXTINF:-1 tvg-id="Loca2.tr" tvg-name="Loca 2 ʜᴅ" group-title="Sinema",Loca 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92432
+#EXTINF:-1 tvg-id="Loca1.tr" tvg-name="Loca 1 ʜᴅ" group-title="Sinema",Loca 1 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92431
+#EXTINF:-1 tvg-id="Korku.tr" tvg-name="Korku ʜᴅ" group-title="Sinema",Korku ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92402
+#EXTINF:-1 tvg-id="Korku3.tr" tvg-name="Korku 3 ʜᴅ" group-title="Sinema",Korku 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92404
+#EXTINF:-1 tvg-id="Korku2.tr" tvg-name="Korku 2  ʜᴅ" group-title="Sinema",Korku 2  ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92403
+#EXTINF:-1 tvg-id="Komedi.tr" tvg-name="Komedi ʜᴅ" group-title="Sinema",Komedi ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92415
+#EXTINF:-1 tvg-id="Komedi3.tr" tvg-name="Komedi 3 ʜᴅ" group-title="Sinema",Komedi 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92417
+#EXTINF:-1 tvg-id="Komedi2.tr" tvg-name="Komedi 2 ʜᴅ" group-title="Sinema",Komedi 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92416
+#EXTINF:-1 tvg-id="Gerilim.tr" tvg-name="Gerilim ʜᴅ" group-title="Sinema",Gerilim ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92405
+#EXTINF:-1 tvg-id="Gerilim2.tr" tvg-name="Gerilim 2 ʜᴅ" group-title="Sinema",Gerilim 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92406
+#EXTINF:-1 tvg-id="Fantasy.tr" tvg-name="Fantasy ʜᴅ" group-title="Sinema",Fantasy ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92407
+#EXTINF:-1 tvg-id="Fantasy3.tr" tvg-name="Fantasy 3 ʜᴅ" group-title="Sinema",Fantasy 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92409
+#EXTINF:-1 tvg-id="Fantasy2.tr" tvg-name="Fantasy 2 ʜᴅ" group-title="Sinema",Fantasy 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92408
+#EXTINF:-1 tvg-id="Dram3.tr" tvg-name="Dram 3 ʜᴅ" group-title="Sinema",Dram 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92422
+#EXTINF:-1 tvg-id="Dram2.tr" tvg-name="Dram 2 ʜᴅ" group-title="Sinema",Dram 2 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92421
+#EXTINF:-1 tvg-id="Dram1.tr" tvg-name="Dram 1 ʜᴅ" group-title="Sinema",Dram 1 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92420
+#EXTINF:-1 tvg-id="Bilimkurgu.tr" tvg-name="Bilimkurgu ʜᴅ" group-title="Sinema",Bilimkurgu ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92410
+#EXTINF:-1 tvg-id="Bilimkurgu3.tr" tvg-name="Bilimkurgu 3 ʜᴅ" group-title="Sinema",Bilimkurgu 3 ʜᴅ
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92412
+#EXTINF:-1 tvg-id="VizyonTurk3.tr" tvg-name="VİZYON TÜRK 3" group-title="Sinema",VİZYON TÜRK 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92373
+#EXTINF:-1 tvg-id="VizyonTurk2.tr" tvg-name="VİZYON TÜRK 2" group-title="Sinema",VİZYON TÜRK 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92372
+#EXTINF:-1 tvg-id="VizyonTurk1.tr" tvg-name="VİZYON TÜRK 1" group-title="Sinema",VİZYON TÜRK 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92371
+#EXTINF:-1 tvg-id="SalonVip13.tr" tvg-name="SALON VIP 13" group-title="Sinema",SALON VIP 13
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92370
+#EXTINF:-1 tvg-id="SalonVip12.tr" tvg-name="SALON VIP 12" group-title="Sinema",SALON VIP 12
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92369
+#EXTINF:-1 tvg-id="SalonVip11.tr" tvg-name="SALON VIP 11" group-title="Sinema",SALON VIP 11
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92368
+#EXTINF:-1 tvg-id="SalonVip10.tr" tvg-name="SALON VIP 10" group-title="Sinema",SALON VIP 10
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92367
+#EXTINF:-1 tvg-id="SalonVip9.tr" tvg-name="SALON VIP 9" group-title="Sinema",SALON VIP 9
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92366
+#EXTINF:-1 tvg-id="SalonVip8.tr" tvg-name="SALON VIP 8" group-title="Sinema",SALON VIP 8
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92365
+#EXTINF:-1 tvg-id="SalonVip7.tr" tvg-name="SALON VIP 7" group-title="Sinema",SALON VIP 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92364
+#EXTINF:-1 tvg-id="SalonVip6.tr" tvg-name="SALON VIP 6" group-title="Sinema",SALON VIP 6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92363
+#EXTINF:-1 tvg-id="SalonVip5.tr" tvg-name="SALON VIP 5" group-title="Sinema",SALON VIP 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92362
+#EXTINF:-1 tvg-id="SalonVip4.tr" tvg-name="SALON VIP 4" group-title="Sinema",SALON VIP 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92361
+#EXTINF:-1 tvg-id="SalonVip3.tr" tvg-name="SALON VIP 3" group-title="Sinema",SALON VIP 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92360
+#EXTINF:-1 tvg-id="SalonVip2.tr" tvg-name="SALON VIP 2" group-title="Sinema",SALON VIP 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92359
+#EXTINF:-1 tvg-id="SalonVip1.tr" tvg-name="SALON VIP 1" group-title="Sinema",SALON VIP 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92358
+#EXTINF:-1 tvg-id="CineverseVizyon7.tr" tvg-name="CINEVERSE VİZYON 7" group-title="Sinema",CINEVERSE VİZYON 7
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92308
+#EXTINF:-1 tvg-id="CineverseVizyon6.tr" tvg-name="CINEVERSE VİZYON 6" group-title="Sinema",CINEVERSE VİZYON 6
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92307
+#EXTINF:-1 tvg-id="CineverseVizyon5.tr" tvg-name="CINEVERSE VİZYON 5" group-title="Sinema",CINEVERSE VİZYON 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92306
+#EXTINF:-1 tvg-id="CineverseVizyon4.tr" tvg-name="CINEVERSE VİZYON 4" group-title="Sinema",CINEVERSE VİZYON 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92305
+#EXTINF:-1 tvg-id="CineverseVizyon3.tr" tvg-name="CINEVERSE VİZYON 3" group-title="Sinema",CINEVERSE VİZYON 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92304
+#EXTINF:-1 tvg-id="CineverseVizyon2.tr" tvg-name="CINEVERSE VİZYON 2" group-title="Sinema",CINEVERSE VİZYON 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92303
+#EXTINF:-1 tvg-id="CineverseVizyon1.tr" tvg-name="CINEVERSE VİZYON 1" group-title="Sinema",CINEVERSE VİZYON 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92302
+#EXTINF:-1 tvg-id="CineverseMarvel5.tr" tvg-name="CINEVERSE MARVEL 5" group-title="Sinema",CINEVERSE MARVEL 5
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92342
+#EXTINF:-1 tvg-id="CineverseMarvel4.tr" tvg-name="CINEVERSE MARVEL 4" group-title="Sinema",CINEVERSE MARVEL 4
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92341
+#EXTINF:-1 tvg-id="CineverseMarvel3.tr" tvg-name="CINEVERSE MARVEL 3" group-title="Sinema",CINEVERSE MARVEL 3
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92340
+#EXTINF:-1 tvg-id="CineverseMarvel2.tr" tvg-name="CINEVERSE MARVEL 2" group-title="Sinema",CINEVERSE MARVEL 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92339
+#EXTINF:-1 tvg-id="CineverseMarvel2.tr" tvg-name="CINEVERSE MARVEL 2" group-title="Sinema",CINEVERSE MARVEL 2
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92339
+#EXTINF:-1 tvg-id="CineverseMarvel1.tr" tvg-name="CINEVERSE MARVEL 1" group-title="Sinema",CINEVERSE MARVEL 1
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92338
+#EXTINF:-1 tvg-id="CineverseKorku8.tr" tvg-name="CINEVERSE KORKU 8" group-title="Sinema",CINEVERSE KORKU 8
+http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92337
+
 #EXTINF:-1 tvg-id="TrtBelgeselQhd.tr" tvg-name="TRT BELGESEL QHD" group-title="Belgesel",TRT BELGESEL QHD
 http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92046
 #EXTINF:-1 tvg-name="┃TR┃ YABAN TV" group-title="Belgesel",YABAN TV
