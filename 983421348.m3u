@@ -1,1 +1,100 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AZAD AZERBAYCAN TV" group-title="Azərbaycan",AZAD AZERBAYCAN TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-name="Xəzər Tv" group-title="Azərbaycan",Xəzər Tv
+http://ua.online24.pm/play/440/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Space Tv " group-title="Azərbaycan",Space Tv
+http://bigbosstv.live:8080/live/live:iptvtree/DNKIsU0W6VIFxhzW/34976.ts
+#EXTINF:-1 tvg-name="Baku Tv Xəbər" group-title="Azərbaycan",Baku Tv Xəbər
+http://ua.online24.pm/play/475/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Arb24 Xəbər" group-title="Azərbaycan",Arb24 Xəbər
+http://ua.online24.pm/play/51702/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet tv" group-title="Azərbaycan",Medeniyyet tv
+http://ua.online24.pm/play/438/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="İctimai Tv" group-title="Azərbaycan",İctimai Tv
+http://ua.online24.pm/play/436/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="AzTV AZ" group-title="Azərbaycan",AzTV AZ
+http://ua.online24.pm/play/435/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Space Tv" group-title="Azərbaycan",Space Tv
+http://ua.online24.pm/play/430/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Xəzər Tv" group-title="Azərbaycan",Xəzər Tv
+https://sunar.impresents.workers.dev/xezertv
+#EXTINF:-1 tvg-name="İctimai Tv" group-title="Azərbaycan",İctimai Tv
+https://sunar.impresents.workers.dev/itv
+#EXTINF:-1 tvg-name="Arb Tv" group-title="Azərbaycan",Arb Tv
+https://sunar.impresents.workers.dev/arb
+#EXTINF:-1 tvg-name="Arb24 Xəbər" group-title="Azərbaycan",Arb24 Xəbər
+https://sunar.impresents.workers.dev/arb24
+#EXTINF:-1 tvg-name="Baku Tv Xəbər" group-title="Azərbaycan",Baku Tv Xəbər
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-name="Space Tv" group-title="Azərbaycan",Space Tv
+https://sunar.impresents.workers.dev/spacetv
+#EXTINF:-1 tvg-name="Kanal S ( Şəki )" group-title="Azərbaycan",Kanal S ( Şəki )
+https://sunar.impresents.workers.dev/kanals
+#EXTINF:-1 tvg-name="MTV Azərbaycan" group-title="Azərbaycan",MTV Azərbaycan
+https://sunar.impresents.workers.dev/myztv
+#EXTINF:-1 tvg-name="Real Tv Xəbər" group-title="Azərbaycan",Real Tv Xəbər
+http://ua.online24.pm/play/429/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Real Tv" group-title="Azərbaycan",Real Tv
+https://sunar.impresents.workers.dev/realtv
+#EXTINF:-1 tvg-name="Dunya Tv" group-title="Azərbaycan",Dunya Tv
+http://ua.online24.pm/play/428/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Atv Azərbaycan" group-title="Azərbaycan",Atv Azərbaycan
+http://ua.online24.pm/play/412/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="CBC SPORT" group-title="Azərbaycan",CBC SPORT
+http://ua.online24.pm/play/434/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="İdman Tv" group-title="Azərbaycan",İdman Tv
+http://ua.online24.pm/play/439/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="MTV Azərbaycan" group-title="Azərbaycan",MTV Azərbaycan
+http://ua.online24.pm/play/51708/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Naxçıvan Tv" group-title="Azərbaycan",Naxçıvan Tv
+http://ua.online24.pm/play/51709/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Sport Tv Az" group-title="Azərbaycan",Sport Tv Az
+http://ua.online24.pm/play/51872/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Sport Tv Az 2" group-title="Azərbaycan",Sport Tv Az 2
+http://ua.online24.pm/play/51873/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="Arb Tv" group-title="Azərbaycan",Arb Tv
+http://ua.online24.pm/play/51703/FF2E7C222919825/video.m3u8
+#EXTINF:-1 tvg-name="İctimai Tv HD" group-title="Azərbaycan",İctimai Tv HD
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-name="Kanal S HD Şəki" group-title="Azərbaycan",Kanal S HD Şəki
+http://7ebf9762.ucomist.net/iptv/YEXEMMGCRW877K/32212/index.m3u8
+#EXTINF:-1 tvg-name="Diginet Cinema Tv" group-title="Azərbaycan",Diginet Cinema Tv
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 tvg-name="Arb Günəş" group-title="Azərbaycan",Arb Günəş
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HYFT9KYHFQG2S4/2189/index.m3u8
+#EXTINF:-1 tvg-name="Könül Tv Music" group-title="Azərbaycan",Könül Tv Music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 tvg-name="EL TV" group-title="Azərbaycan",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mahnı Tv Musiqi Kanalı" group-title="Azərbaycan",Mahnı Tv Musiqi Kanalı
+http://138.16.142.113:2095/ext/xp-80d90db38f/11091/index.m3u8?token=9b5e7b2868a58590ab5ffc55450e6410eea9c5fb
+#EXTINF:-1 tvg-name="Kəpəz tv" group-title="Azərbaycan",Kəpəz tv
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1 tvg-name="LİVE TV" group-title="Azərbaycan",LİVE TV
+https://tv.mobyservice.ru/livetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FTV" group-title="Azərbaycan",FTV
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 tvg-name="MusicAzerbaijan Tv" group-title="Azərbaycan",MusicAzerbaijan Tv
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-name="AYAZ TV" group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/480p/480p.m3u8
+#EXTINF:-1 tvg-name="Showplus Tv" group-title="Azərbaycan",Showplus Tv
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-name="Könül Tv" group-title="Azərbaycan",Könül Tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-name="KNtv" group-title="Azərbaycan",KNtv
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SİMVOL TV" group-title="Azərbaycan",SİMVOL TV
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="GUNAZ TV" group-title="Azərbaycan",GUNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-name="AS STAR TV" group-title="Azərbaycan",AS STAR TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 tvg-name="MAX TV" group-title="Azərbaycan",MAX TV
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="VOSTOK TV" group-title="Azərbaycan",VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-name="NEO PLAY" group-title="Azərbaycan",NEO PLAY
+https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
 
