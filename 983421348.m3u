@@ -507,68 +507,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275583&exte
 http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92046
 #EXTINF:-1  tvg-name="┃TR┃ YABAN TV" group-title="Belgesel",YABAN TV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
-#EXTINF:-1 tvg-id="ViasatExploreFhd.tr" tvg-name="VIASAT EXPLORE FHD"  group-title="Belgesel",VIASAT EXPLORE FHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/245
-#EXTINF:-1 tvg-id="DogaHarikalar.tr" tvg-name="Doğa Harikaları"  group-title="Belgesel",Doğa Harikaları
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92097
-#EXTINF:-1 tvg-id="NatGeoWildQhd.tr" tvg-name="NAT GEO WILD QHD"  group-title="Belgesel",NAT GEO WILD QHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92083
-#EXTINF:-1 tvg-id="NationalGeographicQhd.tr" tvg-name="NATIONAL GEOGRAPHIC QHD"  group-title="Belgesel",NATIONAL GEOGRAPHIC QHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92082
-#EXTINF:-1 tvg-id="DiscoveryQhd.tr" tvg-name="DISCOVERY QHD"  group-title="Belgesel",DISCOVERY QHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92071
-#EXTINF:-1 tvg-id="DiscoveryIdQhd.tr" tvg-name="DISCOVERY ID QHD"  group-title="Belgesel",DISCOVERY ID QHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92073
-#EXTINF:-1 tvg-id="ViasatHistoryQhd.tr" tvg-name="VIASAT HISTORY QHD"  group-title="Belgesel",VIASAT HISTORY QHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92068
-#EXTINF:-1 tvg-id="HistoryHd.tr" tvg-name="HISTORY HD"  group-title="Belgesel",HISTORY HD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/254
-#EXTINF:-1 tvg-id="TlcHd.tr" tvg-name="TLC HD"  group-title="Belgesel",TLC HD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/252
-#EXTINF:-1 tvg-id="TarihTvHd.tr" tvg-name="TARIH TV HD"  group-title="Belgesel",TARIH TV HD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/250
-#EXTINF:-1 tvg-id="ViasatHistoryFhd.tr" tvg-name="VIASAT HISTORY FHD"  group-title="Belgesel",VIASAT HISTORY FHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/247
-#EXTINF:-1 tvg-id="ViasatExploreFhd.tr" tvg-name="VIASAT EXPLORE FHD"  group-title="Belgesel",VIASAT EXPLORE FHD
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/245
-#EXTINF:-1 tvg-id="CiftciTv.tr" tvg-name="CIFTCI TV"  group-title="Belgesel",CIFTCI TV
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/236
-#EXTINF:-1 tvg-id="TgrtBelgesel.tr" tvg-name="TGRT BELGESEL"  group-title="Belgesel",TGRT BELGESEL
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/235
-#EXTINF:-1 tvg-id="TarimTv.tr" tvg-name="TARIM TV"  group-title="Belgesel",TARIM TV
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/233
-#EXTINF:-1 tvg-id="VahsiSeruvenler.tr" tvg-name="Vahşi Serüvenler"  group-title="Belgesel",Vahşi Serüvenler
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92109
-#EXTINF:-1 tvg-id="VahsiDoga.tr" tvg-name="Vahşi Doğa"  group-title="Belgesel",Vahşi Doğa
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92108
-#EXTINF:-1 tvg-id="UzayBilimi.tr" tvg-name="Uzay Bilimi"  group-title="Belgesel",Uzay Bilimi
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92107
-#EXTINF:-1 tvg-id="SharkTv.tr" tvg-name="Shark TV"  group-title="Belgesel",Shark TV
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92106
-#EXTINF:-1 tvg-id="SavasnEfsaneleri.tr" tvg-name="Savaşın Efsaneleri"  group-title="Belgesel",Savaşın Efsaneleri
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92105
-#EXTINF:-1 tvg-id="OkyanusunDerinlikleri.tr" tvg-name="Okyanusun Derinlikleri"  group-title="Belgesel",Okyanusun Derinlikleri
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92104
-#EXTINF:-1 tvg-id="IzBrakanlar.tr" tvg-name="İz Bırakanlar"  group-title="Belgesel",İz Bırakanlar
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92103
-#EXTINF:-1 tvg-id="HayvanlarAlemi.tr" tvg-name="Hayvanlar Alemi"  group-title="Belgesel",Hayvanlar Alemi
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92102
-#EXTINF:-1 tvg-id="GizliCennetler.tr" tvg-name="Gizli Cennetler"  group-title="Belgesel",Gizli Cennetler
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92101
-#EXTINF:-1 tvg-id="GalaktikDuzen.tr" tvg-name="Galaktik Düzen"  group-title="Belgesel",Galaktik Düzen
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92100
-#EXTINF:-1 tvg-id="EvreninGizemi.tr" tvg-name="Evren'in Gizemi"  group-title="Belgesel",Evren'in Gizemi
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92099
-#EXTINF:-1 tvg-id="Dunyamz.tr" tvg-name="Dünyamız"  group-title="Belgesel",Dünyamız
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92098
-#EXTINF:-1 tvg-id="DogaHarikalar.tr" tvg-name="Doğa Harikaları"  group-title="Belgesel",Doğa Harikaları
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92097
-#EXTINF:-1 tvg-id="DinazorlarDevri.tr" tvg-name="Dinazorlar Devri"  group-title="Belgesel",Dinazorlar Devri
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92096
-#EXTINF:-1 tvg-id="BermudaSeytanUcgeni.tr" tvg-name="Bermuda Şeytan Üçgeni"  group-title="Belgesel",Bermuda Şeytan Üçgeni
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92095
-#EXTINF:-1 tvg-id="AntikMedeniyetler.tr" tvg-name="Antik Medeniyetler"  group-title="Belgesel",Antik Medeniyetler
-http://xtvglobal.xyz:8080/beden/bRBXTJuYJ8/92094
 #EXTINF:-1 group-title="Belgesel",Yaban Hayatı
 https://raw.githubusercontent.com/sunarproje/yt/main/streams/yaban-hayat.m3u8
 #EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал HD" tvg-logo="https://iptv.pm/epg/icon/pervyj.png"  tvg-rec="5" timeshift="5" group-title="Rus",Первый канал HD
