@@ -119,7 +119,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Türk",KANAL 7
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&extension=ts&play_token=PndCKJQB2u
-#EXTINF:-1 group-title="Türk",TV4YEDEK
+#EXTINF:-1 group-title="Türk",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Türk",SHOW TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
