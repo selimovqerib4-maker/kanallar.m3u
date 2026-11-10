@@ -19,42 +19,9 @@ https://sunar.impresents.workers.dev/kanals
 https://sunar.impresents.workers.dev/myztv
 #EXTINF:-1 group-title="Azərbaycan",Real Tv
 https://sunar.impresents.workers.dev/realtv
-#EXTINF:-1 group-title="Azərbaycan",Xəzər Tv
-http://bde.seeetv.cc/play/51929/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",TV1 HD Azərbaycan
-http://bde.seeetv.cc/play/51929/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Medeniyyet Tv
-http://bde.seeetv.cc/play/440/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Ictimai TV
-http://bde.seeetv.cc/play/438/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Aztv
-http://bde.seeetv.cc/play/436/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",SPACE TV
-http://bde.seeetv.cc/play/435/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Real Tv
-http://bde.seeetv.cc/play/430/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1,Atv Azad
-http://bde.seeetv.cc/play/414/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",CBC Sport
-http://bde.seeetv.cc/play/412/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",İdman Tv
-http://bde.seeetv.cc/play/434/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Baku Tv
-http://bde.seeetv.cc/play/439/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Arb 24
-http://bde.seeetv.cc/play/51667/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Arb Tv
-http://bde.seeetv.cc/play/51702/97959B50CBE2C3F/video.m3u8
 #EXTINF:-1 tvg-id="APA TV" group-title="Azərbaycan",APA Tv Xəbər
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Naxçıvan Tv
-http://bde.seeetv.cc/play/51708/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Kanal S
-http://bde.seeetv.cc/play/51709/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Sport Tv 1
-http://bde.seeetv.cc/play/51756/97959B50CBE2C3F/video.m3u8
-#EXTINF:-1 group-title="Azərbaycan",Sport Tv 2
-http://bde.seeetv.cc/play/51872/97959B50CBE2C3F/video.m3u8
+
 #EXTINF:-1 tvg-name="Space Tv " group-title="Azərbaycan",Space Tv
 http://bigbosstv.live:8080/live/live:iptvtree/DNKIsU0W6VIFxhzW/34976.ts
 #EXTINF:-1 group-title="Azərbaycan",Dunya TV
