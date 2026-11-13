@@ -1,1 +1,58 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan",AZAD AZERBAYCAN TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Xəzər Tv
+https://sunar.impresents.workers.dev/xezertv
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv
+https://sunar.impresents.workers.dev/itv
+#EXTINF:-1 group-title="Azərbaycan",Arb Tv
+https://sunar.impresents.workers.dev/arb
+#EXTINF:-1 group-title="Azərbaycan",Arb24 Xəbər
+https://sunar.impresents.workers.dev/arb24
+#EXTINF:-1 group-title="Azərbaycan",Baku Tv Xəbər
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space Tv
+https://sunar.impresents.workers.dev/spacetv
+#EXTINF:-1 group-title="Azərbaycan",Kanal S ( Şəki )
+https://sunar.impresents.workers.dev/kanals
+#EXTINF:-1 group-title="Azərbaycan",MTV Azərbaycan
+https://sunar.impresents.workers.dev/myztv
+#EXTINF:-1 group-title="Azərbaycan",Real Tv
+https://sunar.impresents.workers.dev/realtv
+#EXTINF:-1 tvg-id="APA TV" group-title="Azərbaycan",APA Tv Xəbər
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="Space Tv " group-title="Azərbaycan",Space Tv
+http://bigbosstv.live:8080/live/live:iptvtree/DNKIsU0W6VIFxhzW/34976.ts
+#EXTINF:-1 group-title="Azərbaycan",Dunya TV
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/34965
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv HD
+https://live.itv.az/itv.m3u8
+#EXTINF:-1  tvg-name="AZ: HTV SINEMA TV HD"  group-title="Azərbaycan",AZ: HTV SINEMA TV HD
+http://sourcexc.com:8080/live/focusstream/25514299/783101.ts
+#EXTINF:-1  tvg-name="AZ: SİRVAN TV HD"  group-title="Azərbaycan",AZ: SİRVAN TV HD
+http://sourcexc.com:8080/live/focusstream/25514299/783103.ts
+#EXTINF:-1 group-title="Azərbaycan",Səs Tv
+http://sourcexc.com:8080/live/focusstream/25514299/783127.ts
+#EXTINF:-1 group-title="Azərbaycan",Diginet Cinema Tv
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb Günəş
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HYFT9KYHFQG2S4/2189/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",LİVE TV
+https://tv.mobyservice.ru/livetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",FTV
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/480p/480p.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Showplus Tv
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",SİMVOL TV
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",GUNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AS STAR TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 
