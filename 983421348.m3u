@@ -1,1 +1,870 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan",AZAD AZERBAYCAN TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Xəzər Tv
+https://sunar.impresents.workers.dev/xezertv
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv
+https://sunar.impresents.workers.dev/itv
+#EXTINF:-1 group-title="Azərbaycan",Arb Tv
+https://sunar.impresents.workers.dev/arb
+#EXTINF:-1 group-title="Azərbaycan",Arb24 Xəbər
+https://sunar.impresents.workers.dev/arb24
+#EXTINF:-1 group-title="Azərbaycan",Baku Tv Xəbər
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Space Tv
+https://sunar.impresents.workers.dev/spacetv
+#EXTINF:-1 group-title="Azərbaycan",Kanal S ( Şəki )
+https://sunar.impresents.workers.dev/kanals
+#EXTINF:-1 group-title="Azərbaycan",MTV Azərbaycan
+https://sunar.impresents.workers.dev/myztv
+#EXTINF:-1 group-title="Azərbaycan",Real Tv
+https://sunar.impresents.workers.dev/realtv
+#EXTINF:-1 tvg-id="APA TV" group-title="Azərbaycan",APA Tv Xəbər
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-name="Space Tv " group-title="Azərbaycan",Space Tv
+http://bigbosstv.live:8080/live/live:iptvtree/DNKIsU0W6VIFxhzW/34976.ts
+#EXTINF:-1 group-title="Azərbaycan",Dunya TV
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/34965
+#EXTINF:-1 group-title="Azərbaycan",İctimai Tv HD
+https://live.itv.az/itv.m3u8
+#EXTINF:-1  tvg-name="AZ: SİRVAN TV HD"  group-title="Azərbaycan",AZ: SİRVAN TV HD
+http://sourcexc.com:8080/live/focusstream/25514299/783103.ts
+#EXTINF:-1 group-title="Azərbaycan",Diginet Cinema Tv
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Arb Günəş
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HYFT9KYHFQG2S4/2189/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",LİVE TV
+https://tv.mobyservice.ru/livetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan",FTV
+http://stream.ftv.az/live/ftv.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/480p/480p.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Showplus Tv
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Könül Tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan",SİMVOL TV
+https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
+#EXTINF:-1  tvg-name="AZ: HTV SINEMA TV HD"  group-title="Azərbaycan",AZ: HTV SINEMA TV HD
+http://sourcexc.com:8080/live/focusstream/25514299/783101.ts
+#EXTINF:-1 group-title="Azərbaycan",GUNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Azərbaycan",Səs Tv
+http://sourcexc.com:8080/live/focusstream/25514299/783127.ts
+#EXTINF:-1 group-title="Belgesel",ALVIN OVCU TV
+https://catcast.ismailturret.workers.dev/AlvinOvcu.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Belgesel",TRT BELGESEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275550&extension=ts&play_token=yPElqMB2sf
+#EXTINF:-1 tvg-id="Kapaz TV" group-title="Musiqi",Kəpəz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Könül Tv Music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 group-title="Musiqi",Mahnı Tv Musiqi Kanalı
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/34971
+#EXTINF:-1 tvg-name="RIHAT MUSIC TV HD" group-title="Musiqi",RIHAT MUSIC TV HD
+https://catcast.ismailturret.workers.dev/rihattv.m3u8
+#EXTINF:-1 group-title="Musiqi",MusicAzerbaijan Tv
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",KNtv
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",Musiqi 7/24
+http://sourcexc.com:8080/live/focusstream/25514299/783131.ts
+#EXTINF:-1 group-title="Musiqi",MAX TV
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 group-title="Musiqi",ELAMUSIC
+https://catcast.ismailturret.workers.dev/elamusic.m3u8
+#EXTINF:-1 tvg-name="ITV Music" group-title="Musiqi",ITV Music
+http://sourcexc.com:8080/live/focusstream/25514299/783151.ts
+#EXTINF:-1 group-title="Musiqi",NEO PLAY
+https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan",AS STAR TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Türk",Şaban Tv 9
+http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Türk",TRT 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196683&extension=ts&play_token=YUIm1DgYqE
+#EXTINF:-1 group-title="Türk",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr"tvg-name="KANAL 7 Avrupa TR"   tvg-logo="https://picon-13398.kxcdn.com/kanal7avrupatr.jpg" group-title="Türk",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Türk",KANAL 7
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&extension=ts&play_token=PndCKJQB2u
+#EXTINF:-1 group-title="Türk",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Türk",SHOW TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
+#EXTINF:-1 tvg-name="TR: SHOW MAX RAW" tvg-logo="https://logolarimiz.com/europa/turkey/showmax.png" group-title="Türk",TR: SHOW MAX
+http://sourcexc.com:8080/live/focusstream/25514299/26.ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/FOXTV.png" group-title="Türk",NOW TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196694&extension=ts&play_token=lSQRFJi5TM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/KanalD.png" group-title="Türk",KANAL D
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196696&extension=ts&play_token=DYgtNp28Es
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="Türk",ATV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196698&extension=ts&play_token=6k77AngOgl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/startv.png" group-title="Türk",STAR TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196695&extension=ts&play_token=9rZyNWfIPX
+#EXTINF:1 tvg-id="birtv.tr" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_293.png?v=9" group-title="Türk",Bİ KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
+#EXTINF:-1 group-title="Türk",EURO STAR
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9091
+#EXTINF:-1  tvg-name="TABII TV" tvg-logo="https://logolarimiz.com/logo/Turkiye/Tabii.png" group-title="Türk",TABII TV
+http://sourcexc.com:8080/live/focusstream/25514299/907770.ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeyazTV.png" group-title="Türk",BEYAZ TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196691&extension=ts&play_token=8QiYAaqw7G
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title="Türk",TRT 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196688&extension=ts&play_token=xSvgymKo8X
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" group-title="Türk",TEVE 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/A2.png" group-title="Türk",A2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
+#EXTINF:-1 group-title="Türk",MC EU
+https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+#EXTINF:-1 group-title="Türk",Tv8 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/10536
+#EXTINF:-1 group-title="Türk",TV 8 FHD
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+#EXTINF:-1 group-title="Türk",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Türk",TV8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 group-title="Türk",Tivi6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-name="RIHAT TV HD" group-title="Türk",RIHAT TV HD
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",TV41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/chunks.m3u8
+#EXTINF:-1 group-title="Türk",KANAL AVRUPA
+https://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Belgesel",Yaban Hayatı
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/yaban-hayat.m3u8
+#EXTINF:-1 group-title="Türk",İSVİÇRE TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",Flux tv
+https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",CENNETMAHELLESİ
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 group-title="Türk",Patı Tv
+http://45.88.139.156/d/live/out.m3u8
+#EXTINF:-1 group-title="Türk",Cine5tv
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",Cine1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
+#EXTINF:-1 group-title="Türk",Zem Tv
+http://45.158.14.16/ZemTv/live/index.m3u8
+#EXTINF:-1 group-title="Türk",TVB TV
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Türk",Rizetürk tv
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 group-title="Türk",Sdmtv
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Türk",Tv25
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/tv25.m3u8
+#EXTINF:-1 group-title="Türk",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="Türk",Kocaeli TV HD
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Türk",Meltem Tv
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:-1 group-title="Türk",TRT NOSTALJİ
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 group-title="Türk",Yeşil Deniz 7/24
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/yesil-deniz.m3u8
+#EXTINF:-1 group-title="Türk",Göpsen Tv
+https://canli.gopsentv.com:3604/stream/play.m3u8
+#EXTINF:-1 group-title="Türk",Begen Tv
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 tvg-id="KemalSunal1.tr" tvg-name="Kemal Sunal 1" group-title="Sinema",Kemal Sunal 5
+https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
+#EXTINF:-1 tvg-id="KemalSunal3.tr" tvg-name="Kemal Sunal 3" group-title="Sinema",Kemal Sunal 6
+https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8
+#EXTINF:-1 group-title="Sinema",TR :Kemal Sunal 7
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9265
+#EXTINF:-1 group-title="Sinema",TR : Kemal Sunal 8
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189143
+#EXTINF:-1 group-title="Sinema",HABABAM SINIFI
+https://catcast.ismailturret.workers.dev/hababam.m3u8
+#EXTINF:-1 group-title="Sinema",Kurtlar Vadisi 1
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/kurtlar-vadisi-pusu.m3u8
+#EXTINF:-1 group-title="Sinema",Kurtlar Vadisi 2
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 group-title="Sinema",Yansima Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Max Dizi
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Maxpremier
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Maxyerli
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Max Tv HD
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Sinema Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-name="AZ: NEW TV HD" group-title="Sinema",Yeşilcam Filmleri
+http://sourcexc.com:8080/live/focusstream/25514299/783134.ts
+#EXTINF:-1 group-title="Sinema",TR : Proturk LOCA 2 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189128
+#EXTINF:-1 group-title="Sinema",TR : Proturk Bilim Kurgu HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189129
+#EXTINF:-1 group-title="Sinema",TR : Proturk Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189130
+#EXTINF:-1 group-title="Sinema",TR : Proturk Gerilim HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189131
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Cd5mGN/viasat-epic-drama.png" group-title="Sinema",VİASAT EPİC DRAMA
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1  group-title="Sinema",RİZE TÜRK
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Yeşilçam
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Deadpool
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Korku
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxkorku.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Dağ
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxdag.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Prime Eşref Tek
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Prime Bizimkiler
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 group-title="Sinema",TR : Proturk Korku HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189132
+#EXTINF:-1 group-title="Sinema",TR : Proturk DRAM HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189133
+#EXTINF:-1 group-title="Sinema",TR : Proturk Fantastic HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189134
+#EXTINF:-1 group-title="Sinema",TR : Proturk Macera HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189135
+#EXTINF:-1 group-title="Sinema",TR : Proturk Comedy HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189136
+#EXTINF:-1 group-title="Sinema",TR : Proturk Vizyon HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189137
+#EXTINF:-1 group-title="Sinema",TR : Proturk Yerli HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189138
+#EXTINF:-1 group-title="Sinema",TR : Proturk Uzakdoğu HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189139
+#EXTINF:-1 group-title="Sinema",TR : Proturk Western HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189140
+#EXTINF:-1 group-title="Sinema",TR : Proturk Orjinal HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189142
+#EXTINF:-1 group-title="Sinema",TR : Proturk Yeşilçam HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189144
+#EXTINF:-1 group-title="Sinema",TR : Arena BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189146
+#EXTINF:-1 group-title="Sinema",TR : FIX Cinema Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189147
+#EXTINF:-1 group-title="Sinema",TR : KING BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189148
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189149
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Fantastic HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189150
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Bilim Kurgu HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189151
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Macera HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189152
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Korku HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189153
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Comedy HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189154
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX DRAM HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189155
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Western HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189156
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Vizyon HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189157
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Yerli HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189158
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX GOLD HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189159
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Marvel HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189160
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Yeşilçam HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189161
+#EXTINF:-1 group-title="Sinema",TR : REAL BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189162
+#EXTINF:-1 group-title="Sinema",TR : Dream BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189163
+#EXTINF:-1 group-title="Sinema",TR : FILM BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189164
+#EXTINF:-1 group-title="Sinema",TR : Smart BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189165
+#EXTINF:-1 group-title="Sinema",TR : Global BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189166
+#EXTINF:-1 group-title="Sinema",TR : Sinevizyon TURK 7 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9214
+#EXTINF:-1 group-title="Sinema",TR : MAX Premier HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9255
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3LFzchs/images-removebg-preview-(3).png" group-title="Sinema",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="Sinema",CİNE5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YrbxXS/12029-removebg-preview.png" group-title="Sinema",TELEZEN
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/telezentvchannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySpcvvF/37593099-ico.png" group-title="Sinema",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197150&extension=ts&play_token=Qyg7xZtKPS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197154&extension=ts&play_token=DhHmxaaEy1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/TiviOneENTERTAINMENT/TiviOne-movies-183472.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197155&extension=ts&play_token=bGp1orGGzP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197152&extension=ts&play_token=fkElbmWwon
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DiziSmartPremium.tr.png" group-title="Sinema",DIZISMART PREMIUM
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197141&extension=ts&play_token=DviKGVpwou
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197130&extension=ts&play_token=OGpmnWnGk8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197142&extension=ts&play_token=a2Cuv0JYUx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197148&extension=ts&play_token=AZ1nfBwDC5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197153&extension=ts&play_token=X6RnnsIbuZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197139&extension=ts&play_token=ZOc5rxcKi6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197146&extension=ts&play_token=1rohPQEEBT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197143&extension=ts&play_token=TIWsWdf93Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197121&extension=ts&play_token=jNoNfQTSEm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197133&extension=ts&play_token=vz7x3ifk8a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197131&extension=ts&play_token=X9NOzCl3Xm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197120&extension=ts&play_token=4qs9Rb6Vm6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197134&extension=ts&play_token=nFUwnunQ3l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197125&extension=ts&play_token=WptkWfQkrP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197126&extension=ts&play_token=VsyScjJNVY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197132&extension=ts&play_token=Bbe8LhucdQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart.png" group-title="Sinema",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/640px-Epic-Drama.png" group-title="Sinema",EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197138&extension=ts&play_token=3Go4nzhX4j
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275555&extension=ts&play_token=BbF3r8bw7o
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275553&extension=ts&play_token=QU7r6URZrk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275554&extension=ts&play_token=OnNqa4ssRA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275542&extension=ts&play_token=ONhvMMDFFm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",VIZYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275539&extension=ts&play_token=Ggsjm8WaZW
+#EXTINF:-1 group-title="Sinema",TR : Proturk LOCA 1 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189127
+#EXTINF:-1 group-title="Rus" tvg-id="fox",Fox HD
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="domkino",Domkino
+http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="domkino-premium",Dom kino Premium HD (1080p)
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="evrokino",Evrokino HD (1080p)
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kino-tv",Kino TV SD (576p)
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinoxit",KinoHit (576p)
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinokomedia",Kinokomedija (576p)
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinomiks",Kinomix (576p)
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopokaz",Kinopokaz (576p)
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinopremiera-hd",Kinopremyera (1080p)
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosemiya",Kinosemja (576p)
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinouzhas",Kinouzhas (576p)
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="kinosvidanie",Kinosvidanie (576p)
+http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="muzhskoe-kino",Muzhskoe kino (576p)
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="ostrosiuzhetnoe-hd",Ostrosyuzhetnoye HD (1080p)
+http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="premialnoe-hd",Premialnoe HD (1080p)
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000",viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="tv1000-action",viju TV1000 action (576p)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-comedy",viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-megahit",viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="vip-premiere",viju+ Premiere HD (1080p)
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-nature-history-hd",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="nauka",Nauka (576p)
+http://stream.mcquack.net/125/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="discovery-channel",Discovery Channel (1080p)
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="id-xtra-eu",Investigation Discovery (1080p)
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="national-geographic",National Geographic (576p)
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-explore",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-history",viju History (576p)
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="viasat-nature",viju Nature (576p)
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Rus" tvg-id="travel-channel",Travel Channel (1080p)
+http://stream.mcquack.net/231/index.m3u8
+#EXTINF:-1  tvg-name="Ultra HD Cinema (Cinema UHD)" tvg-logo="http://peaktv.su/img/logos/uhd/ultra-hd-cinema.png" group-title="Rus",Ultra HD Cinema (Cinema UHD)
+http://sourcexc.com:8080/live/focusstream/25514299/906509.ts
+#EXTINF:-1  tvg-name="Мосфильм: золотая коллекция HD" tvg-logo="http://peaktv.su/img/logos/films/mosfilm.png" group-title="Rus",Мосфильм: золотая коллекция HD
+http://sourcexc.com:8080/live/focusstream/25514299/906511.ts
+#EXTINF:-1  tvg-name="Мосфильм: золотая коллекция" tvg-logo="http://peaktv.su/img/logos/films/mosfilm.png" group-title="Rus",Мосфильм: золотая коллекция
+http://sourcexc.com:8080/live/focusstream/25514299/906512.ts
+#EXTINF:-1  tvg-name="Мосфильм: золотая коллекция +4 HD" tvg-logo="http://peaktv.su/img/logos/films/mosfilm-pl4.png" group-title="Rus",Мосфильм: золотая коллекция +4 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906513.ts
+#EXTINF:-1  tvg-name="Госфильмофонд. Машина времени" tvg-logo="http://peaktv.su/img/logos/kino/mashina_vremeni.png" group-title="Rus",Госфильмофонд. Машина времени
+http://sourcexc.com:8080/live/focusstream/25514299/906514.ts
+#EXTINF:-1  tvg-name="4К Русское кино" tvg-logo="http://peaktv.su/img/logos/films/4k-ruskino.png" group-title="Rus",4К Русское кино
+http://sourcexc.com:8080/live/focusstream/25514299/906515.ts
+#EXTINF:-1  tvg-name="Хит HD" tvg-logo="http://peaktv.su/img/logos/films/khit.png" group-title="Rus",Хит HD
+http://sourcexc.com:8080/live/focusstream/25514299/906516.ts
+#EXTINF:-1  tvg-name="НТВ Сериал" tvg-logo="http://peaktv.su/img/logos/films/ntv-serial.png" group-title="Rus",НТВ Сериал
+http://sourcexc.com:8080/live/focusstream/25514299/906517.ts
+#EXTINF:-1  tvg-name="НТВ Хит" tvg-logo="http://peaktv.su/img/logos/films/ntv-xit.png" group-title="Rus",НТВ Хит
+http://sourcexc.com:8080/live/focusstream/25514299/906518.ts
+#EXTINF:-1  tvg-name="Патриот" tvg-logo="https://epg.iptvx.one/picons/patriot.png" group-title="Rus",Патриот
+http://sourcexc.com:8080/live/focusstream/25514299/906519.ts
+#EXTINF:-1  tvg-name="Окко ТВ HD" tvg-logo="http://peaktv.su/img/logos/films/OKKOTV200.png" group-title="Rus",Окко ТВ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906520.ts
+#EXTINF:-1  tvg-name="START Air" tvg-logo="http://peaktv.su/img/logos/films/start-air.png" group-title="Rus",START Air
+http://sourcexc.com:8080/live/focusstream/25514299/906521.ts
+#EXTINF:-1  tvg-name="START World" tvg-logo="http://peaktv.su/img/logos/films/start-world.png" group-title="Rus",START World
+http://sourcexc.com:8080/live/focusstream/25514299/906522.ts
+#EXTINF:-1  tvg-name="Дом кино" tvg-logo="http://peaktv.su/img/logos/films/domkino.png" group-title="Rus",Дом кино
+http://sourcexc.com:8080/live/focusstream/25514299/906523.ts
+#EXTINF:-1  tvg-name="Дом кино Премиум HD" tvg-logo="http://peaktv.su/img/logos/films/domkino-premium.png" group-title="Rus",Дом кино Премиум HD
+http://sourcexc.com:8080/live/focusstream/25514299/906524.ts
+#EXTINF:-1  tvg-name="Кино ТВ HD" tvg-logo="http://peaktv.su/img/logos/films/kino-tv.png" group-title="Rus",Кино ТВ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906525.ts
+#EXTINF:-1  tvg-name="SAGA TV HD" tvg-logo="http://peaktv.su/img/logos/kino/SAGATV200.png" group-title="Rus",SAGA TV HD
+http://sourcexc.com:8080/live/focusstream/25514299/906526.ts
+#EXTINF:-1  tvg-name="ЕвроКино HD" tvg-logo="https://epg.iptvx.one/picons/eurokino.png" group-title="Rus",ЕвроКино HD
+http://sourcexc.com:8080/live/focusstream/25514299/906527.ts
+#EXTINF:-1  tvg-name="Киноджем 1 HD" tvg-logo="http://peaktv.su/img/logos/films/kinojam1.png" group-title="Rus",Киноджем 1 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906528.ts
+#EXTINF:-1  tvg-name="Киноджем 2 HD" tvg-logo="http://peaktv.su/img/logos/films/kinojam2.png" group-title="Rus",Киноджем 2 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906529.ts
+#EXTINF:-1  tvg-name="viju TV1000 HD" tvg-logo="http://peaktv.su/img/logos/films/tv1000_hd.png" group-title="Rus",viju TV1000 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906530.ts
+#EXTINF:-1  tvg-name="viju TV1000" tvg-logo="http://peaktv.su/img/logos/films/tv1000.png" group-title="Rus",viju TV1000
+http://sourcexc.com:8080/live/focusstream/25514299/906531.ts
+#EXTINF:-1  tvg-name="viju TV1000 Action HD" tvg-logo="http://peaktv.su/img/logos/films/tv1000-action_hd.png" group-title="Rus",viju TV1000 Action HD
+http://sourcexc.com:8080/live/focusstream/25514299/906532.ts
+#EXTINF:-1  tvg-name="viju TV1000 Action" tvg-logo="http://peaktv.su/img/logos/films/tv1000-action.png" group-title="Rus",viju TV1000 Action
+http://sourcexc.com:8080/live/focusstream/25514299/906533.ts
+#EXTINF:-1  tvg-name="viju TV1000 Русское кино HD" tvg-logo="http://peaktv.su/img/logos/films/tv1000-russkoe-kino_hd.png" group-title="Rus",viju TV1000 Русское кино HD
+http://sourcexc.com:8080/live/focusstream/25514299/906534.ts
+#EXTINF:-1  tvg-name="viju TV1000 Русское кино" tvg-logo="http://peaktv.su/img/logos/films/tv1000-russkoe-kino.png" group-title="Rus",viju TV1000 Русское кино
+http://sourcexc.com:8080/live/focusstream/25514299/906535.ts
+#EXTINF:-1  tvg-name="viju TV1000 Новелла HD" tvg-logo="http://peaktv.su/img/logos/films/viju-tv1000-novella.png" group-title="Rus",viju TV1000 Новелла HD
+http://sourcexc.com:8080/live/focusstream/25514299/906536.ts
+#EXTINF:-1  tvg-name="viju TV1000 Romantica HD" tvg-logo="https://epg.iptvx.one/picons/viju-tv1000-romantica.png" group-title="Rus",viju TV1000 Romantica HD
+http://sourcexc.com:8080/live/focusstream/25514299/906537.ts
+#EXTINF:-1  tvg-name="viju+ ViP Premiere HD" tvg-logo="http://peaktv.su/img/logos/films/vip-premiere.png" group-title="Rus",viju+ ViP Premiere HD
+http://sourcexc.com:8080/live/focusstream/25514299/906538.ts
+#EXTINF:-1  tvg-name="viju+ ViP Comedy HD" tvg-logo="http://peaktv.su/img/logos/films/vip-comedy.png" group-title="Rus",viju+ ViP Comedy HD
+http://sourcexc.com:8080/live/focusstream/25514299/906539.ts
+#EXTINF:-1  tvg-name="viju+ ViP Megahit HD" tvg-logo="http://peaktv.su/img/logos/films/vip-megahit.png" group-title="Rus",viju+ ViP Megahit HD
+http://sourcexc.com:8080/live/focusstream/25514299/906540.ts
+#EXTINF:-1  tvg-name="viju+ ViP Serial HD" tvg-logo="http://peaktv.su/img/logos/films/vip-serial.png" group-title="Rus",viju+ ViP Serial HD
+http://sourcexc.com:8080/live/focusstream/25514299/906541.ts
+#EXTINF:-1  tvg-name="День Победы HD" tvg-logo="http://peaktv.su/img/logos/films/denpobedy.png" group-title="Rus",День Победы HD
+http://sourcexc.com:8080/live/focusstream/25514299/906542.ts
+#EXTINF:-1  tvg-name="Русский детектив" tvg-logo="http://peaktv.su/img/logos/films/russky-detektiv.png" group-title="Rus",Русский детектив
+http://sourcexc.com:8080/live/focusstream/25514299/906543.ts
+#EXTINF:-1  tvg-name="Русский Бестселлер" tvg-logo="http://peaktv.su/img/logos/films/russky-bestseller.png" group-title="Rus",Русский Бестселлер
+http://sourcexc.com:8080/live/focusstream/25514299/906544.ts
+#EXTINF:-1  tvg-name="Русский Иллюзион HD" tvg-logo="http://peaktv.su/img/logos/films/russky-illuzion.png" group-title="Rus",Русский Иллюзион HD
+http://sourcexc.com:8080/live/focusstream/25514299/906545.ts
+#EXTINF:-1  tvg-name="Русский Роман HD" tvg-logo="http://peaktv.su/img/logos/films/russky-roman.png" group-title="Rus",Русский Роман HD
+http://sourcexc.com:8080/live/focusstream/25514299/906546.ts
+#EXTINF:-1  tvg-name="Премиальное HD" tvg-logo="http://peaktv.su/img/logos/films/premialnoe-hd.png" group-title="Rus",Премиальное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906547.ts
+#EXTINF:-1  tvg-name="Романтичное HD" tvg-logo="http://peaktv.su/img/logos/films/romantichnoe-hd.png" group-title="Rus",Романтичное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906548.ts
+#EXTINF:-1  tvg-name="Комедийное HD" tvg-logo="http://peaktv.su/img/logos/films/komedijnoe-hd.png" group-title="Rus",Комедийное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906549.ts
+#EXTINF:-1  tvg-name="Любимое HD" tvg-logo="http://peaktv.su/img/logos/films/nashe-lubimoe-hd.png" group-title="Rus",Любимое HD
+http://sourcexc.com:8080/live/focusstream/25514299/906550.ts
+#EXTINF:-1  tvg-name="Остросюжетное HD" tvg-logo="http://peaktv.su/img/logos/films/ostrosiuzhetnoe-hd.png" group-title="Rus",Остросюжетное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906551.ts
+#EXTINF:-1  tvg-name="Шокирующее HD" tvg-logo="http://peaktv.su/img/logos/films/shokiruyushchee.png" group-title="Rus",Шокирующее HD
+http://sourcexc.com:8080/live/focusstream/25514299/906552.ts
+#EXTINF:-1  tvg-name="Душевное HD" tvg-logo="http://peaktv.su/img/logos/films/dushevnoe-hd.png" group-title="Rus",Душевное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906553.ts
+#EXTINF:-1  tvg-name="Страшное HD" tvg-logo="http://peaktv.su/img/logos/films/strashnoe-hd.png" group-title="Rus",Страшное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906554.ts
+#EXTINF:-1  tvg-name="Кинопремьера HD" tvg-logo="http://peaktv.su/img/logos/films/kinopremiera.png" group-title="Rus",Кинопремьера HD
+http://sourcexc.com:8080/live/focusstream/25514299/906555.ts
+#EXTINF:-1  tvg-name="Кинохит FHD" tvg-logo="http://peaktv.su/img/logos/films/kinoxit.png" group-title="Rus",Кинохит FHD
+http://sourcexc.com:8080/live/focusstream/25514299/906556.ts
+#EXTINF:-1  tvg-name="Киносемья HD" tvg-logo="http://peaktv.su/img/logos/films/kinosemia.png" group-title="Rus",Киносемья HD
+http://sourcexc.com:8080/live/focusstream/25514299/906557.ts
+#EXTINF:-1  tvg-name="Киносемья" tvg-logo="http://peaktv.su/img/logos/films/kinosemia.png" group-title="Rus",Киносемья
+http://sourcexc.com:8080/live/focusstream/25514299/906558.ts
+#EXTINF:-1  tvg-name="Кинокомедия HD" tvg-logo="http://peaktv.su/img/logos/films/kinokomedia.png" group-title="Rus",Кинокомедия HD
+http://sourcexc.com:8080/live/focusstream/25514299/906559.ts
+#EXTINF:-1  tvg-name="Киномикс HD" tvg-logo="http://peaktv.su/img/logos/films/kinomiks.png" group-title="Rus",Киномикс HD
+http://sourcexc.com:8080/live/focusstream/25514299/906560.ts
+#EXTINF:-1  tvg-name="Киноужас HD" tvg-logo="http://peaktv.su/img/logos/films/kinouzhas.png" group-title="Rus",Киноужас HD
+http://sourcexc.com:8080/live/focusstream/25514299/906561.ts
+#EXTINF:-1  tvg-name="Киносвидание HD" tvg-logo="http://peaktv.su/img/logos/films/kinosvidanie.png" group-title="Rus",Киносвидание HD
+http://sourcexc.com:8080/live/focusstream/25514299/906562.ts
+#EXTINF:-1  tvg-name="Киносерия HD" tvg-logo="http://peaktv.su/img/logos/films/kinoseria.png" group-title="Rus",Киносерия HD
+http://sourcexc.com:8080/live/focusstream/25514299/906563.ts
+#EXTINF:-1  tvg-name="Мужское кино HD" tvg-logo="http://peaktv.su/img/logos/films/muzhskoe-kino.png" group-title="Rus",Мужское кино HD
+http://sourcexc.com:8080/live/focusstream/25514299/906564.ts
+#EXTINF:-1  tvg-name="Наше Новое кино HD" tvg-logo="http://peaktv.su/img/logos/films/nashe-novoe-kino.png" group-title="Rus",Наше Новое кино HD
+http://sourcexc.com:8080/live/focusstream/25514299/906565.ts
+#EXTINF:-1  tvg-name="Родное кино" tvg-logo="http://peaktv.su/img/logos/films/rodnoe-kino.png" group-title="Rus",Родное кино
+http://sourcexc.com:8080/live/focusstream/25514299/906566.ts
+#EXTINF:-1  tvg-name="Индийское кино" tvg-logo="http://peaktv.su/img/logos/films/indijskoe-kino.png" group-title="Rus",Индийское кино
+http://sourcexc.com:8080/live/focusstream/25514299/906567.ts
+#EXTINF:-1  tvg-name="Киноменю HD" tvg-logo="http://peaktv.su/img/logos/films/kinomenu.png" group-title="Rus",Киноменю HD
+http://sourcexc.com:8080/live/focusstream/25514299/906568.ts
+#EXTINF:-1  tvg-name="Советское кино" tvg-logo="http://peaktv.su/img/logos/films/sovkino.png" group-title="Rus",Советское кино
+http://sourcexc.com:8080/live/focusstream/25514299/906569.ts
+#EXTINF:-1  tvg-name="4ever Cinema HD" tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png" group-title="Rus",4ever Cinema HD
+http://sourcexc.com:8080/live/focusstream/25514299/906570.ts
+#EXTINF:-1  tvg-name="4ever Drama HD" tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png" group-title="Rus",4ever Drama HD
+http://sourcexc.com:8080/live/focusstream/25514299/906571.ts
+#EXTINF:-1  tvg-name="4ever Theater HD" tvg-logo="https://epg.iptvx.one/picons/4ever-theater.png" group-title="Rus",4ever Theater HD
+http://sourcexc.com:8080/live/focusstream/25514299/906572.ts
+#EXTINF:-1  tvg-name="Киноман" tvg-logo="http://peaktv.su/img/logos/films/kinosat.png" group-title="Rus",Киноман
+http://sourcexc.com:8080/live/focusstream/25514299/906573.ts
+#EXTINF:-1  tvg-name="КиноКульт HD" tvg-logo="https://epg.iptvx.one/picons/kinokult.png" group-title="Rus",КиноКульт HD
+http://sourcexc.com:8080/live/focusstream/25514299/906574.ts
+#EXTINF:-1  tvg-name="Комедия" tvg-logo="http://peaktv.su/img/logos/films/komedia.png" group-title="Rus",Комедия
+http://sourcexc.com:8080/live/focusstream/25514299/906575.ts
+#EXTINF:-1  tvg-name=". Sci-Fi" tvg-logo="http://peaktv.su/img/logos/films/sony-scifi.png" group-title="Rus",. Sci-Fi
+http://sourcexc.com:8080/live/focusstream/25514299/906576.ts
+#EXTINF:-1  tvg-name=". Red HD" tvg-logo="http://peaktv.su/img/logos/films/sony.png" group-title="Rus",. Red HD
+http://sourcexc.com:8080/live/focusstream/25514299/906577.ts
+#EXTINF:-1  tvg-name=". black" tvg-logo="http://peaktv.su/img/logos/films/sony-turbo.png" group-title="Rus",. black
+http://sourcexc.com:8080/live/focusstream/25514299/906578.ts
+#EXTINF:-1  tvg-name="НСТ" tvg-logo="http://peaktv.su/img/logos/films/nst.png" group-title="Rus",НСТ
+http://sourcexc.com:8080/live/focusstream/25514299/906579.ts
+#EXTINF:-1  tvg-name="Trash HD" tvg-logo="http://peaktv.su/img/logos/films/trashtv.png" group-title="Rus",Trash HD
+http://sourcexc.com:8080/live/focusstream/25514299/906580.ts
+#EXTINF:-1  tvg-name="Hollywood" tvg-logo="http://peaktv.su/img/logos/films/hollywood.png" group-title="Rus",Hollywood
+http://sourcexc.com:8080/live/focusstream/25514299/906581.ts
+#EXTINF:-1  tvg-name="Наш Кинопоказ HD" tvg-logo="http://peaktv.su/img/logos/films/nash-kinopokaz.png" group-title="Rus",Наш Кинопоказ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906582.ts
+#EXTINF:-1  tvg-name="Наше любимое кино" tvg-logo="http://peaktv.su/img/logos/films/lubimoe-kino.png" group-title="Rus",Наше любимое кино
+http://sourcexc.com:8080/live/focusstream/25514299/906583.ts
+#EXTINF:-1  tvg-name="Болт HD" tvg-logo="http://peaktv.su/img/logos/films/bolt.png" group-title="Rus",Болт HD
+http://sourcexc.com:8080/live/focusstream/25514299/906584.ts
+#EXTINF:-1  tvg-name="Мир Сериала HD" tvg-logo="http://peaktv.su/img/logos/films/mir-seriala.png" group-title="Rus",Мир Сериала HD
+http://sourcexc.com:8080/live/focusstream/25514299/906585.ts
+#EXTINF:-1  tvg-name="Арсенал HD" tvg-logo="http://peaktv.su/img/logos/films/arsenaltv.png" group-title="Rus",Арсенал HD
+http://sourcexc.com:8080/live/focusstream/25514299/906586.ts
+#EXTINF:-1  tvg-name="Bollywood HD" tvg-logo="http://peaktv.su/img/logos/films/bollywood-hd.png" group-title="Rus",Bollywood HD
+http://sourcexc.com:8080/live/focusstream/25514299/906587.ts
+#EXTINF:-1  tvg-name="Amedia Hit HD" tvg-logo="http://peaktv.su/img/logos/films/amedia-hit.png" group-title="Rus",Amedia Hit HD
+http://sourcexc.com:8080/live/focusstream/25514299/906588.ts
+#EXTINF:-1  tvg-name="Amedia Premium HD" tvg-logo="http://peaktv.su/img/logos/films/amedia-premium.png" group-title="Rus",Amedia Premium HD
+http://sourcexc.com:8080/live/focusstream/25514299/906589.ts
+#EXTINF:-1  tvg-name="A1 HD" tvg-logo="http://peaktv.su/img/logos/films/amedia1.png" group-title="Rus",A1 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906590.ts
+#EXTINF:-1  tvg-name="A2 HD" tvg-logo="http://peaktv.su/img/logos/films/amedia2.png" group-title="Rus",A2 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906591.ts
+#EXTINF:-1  tvg-name="Timeless Dizi Channel HD" tvg-logo="http://peaktv.su/img/logos/films/timeless-dizi.png" group-title="Rus",Timeless Dizi Channel HD
+http://sourcexc.com:8080/live/focusstream/25514299/906592.ts
+#EXTINF:-1  tvg-name="Блокбастер HD" tvg-logo="http://peaktv.su/img/logos/films/blokbaster.png" group-title="Rus",Блокбастер HD
+http://sourcexc.com:8080/live/focusstream/25514299/906593.ts
+#EXTINF:-1  tvg-name="Камеди HD" tvg-logo="http://peaktv.su/img/logos/films/kamedi.png" group-title="Rus",Камеди HD
+http://sourcexc.com:8080/live/focusstream/25514299/906594.ts
+#EXTINF:-1  tvg-name="Наше мужское HD" tvg-logo="http://peaktv.su/img/logos/films/nashe-muzhskoe.png" group-title="Rus",Наше мужское HD
+http://sourcexc.com:8080/live/focusstream/25514299/906595.ts
+#EXTINF:-1  tvg-name="Про любовь HD" tvg-logo="http://peaktv.su/img/logos/films/pro-lyubov.png" group-title="Rus",Про любовь HD
+http://sourcexc.com:8080/live/focusstream/25514299/906596.ts
+#EXTINF:-1  tvg-name="Fox HD" tvg-logo="http://peaktv.su/img/logos/films/fox.png" group-title="Rus",Fox HD
+http://sourcexc.com:8080/live/focusstream/25514299/906597.ts
+#EXTINF:-1  tvg-name="Fox Life HD" tvg-logo="http://peaktv.su/img/logos/films/foxlife.png" group-title="Rus",Fox Life HD
+http://sourcexc.com:8080/live/focusstream/25514299/906598.ts
+#EXTINF:-1  tvg-name="Синема HD" tvg-logo="http://peaktv.su/img/logos/films/cinema.png" group-title="Rus",Синема HD
+http://sourcexc.com:8080/live/focusstream/25514299/906599.ts
+#EXTINF:-1  tvg-name="Epic Drama HD" tvg-logo="http://peaktv.su/img/logos/films/epik-drama.png" group-title="Rus",Epic Drama HD
+http://sourcexc.com:8080/live/focusstream/25514299/906600.ts
+#EXTINF:-1  tvg-name="Filmbox" tvg-logo="http://peaktv.su/img/logos/films/filmbox-ru.png" group-title="Rus",Filmbox
+http://sourcexc.com:8080/live/focusstream/25514299/906601.ts
+#EXTINF:-1  tvg-name="Filmbox Arthouse" tvg-logo="http://peaktv.su/img/logos/films/filmbox-arthouse.png" group-title="Rus",Filmbox Arthouse
+http://sourcexc.com:8080/live/focusstream/25514299/906602.ts
+#EXTINF:-1  tvg-name="Дорама HD" tvg-logo="http://peaktv.su/img/logos/films/dorama.png" group-title="Rus",Дорама HD
+http://sourcexc.com:8080/live/focusstream/25514299/906603.ts
+#EXTINF:-1  tvg-name="Shot TV" tvg-logo="http://peaktv.su/img/logos/films/shot-tv.png" group-title="Rus",Shot TV
+http://sourcexc.com:8080/live/focusstream/25514299/906604.ts
+#EXTINF:-1  tvg-name="Kino 24" tvg-logo="http://peaktv.su/img/logos/films/kino-24.png" group-title="Rus",Kino 24
+http://sourcexc.com:8080/live/focusstream/25514299/906605.ts
+#EXTINF:-1  tvg-name="Индия" tvg-logo="http://peaktv.su/img/logos/films/zee-tv.png" group-title="Rus",Индия
+http://sourcexc.com:8080/live/focusstream/25514299/906606.ts
+#EXTINF:-1  tvg-name="Иллюзион +" tvg-logo="http://peaktv.su/img/logos/films/illuzion-plus.png" group-title="Rus",Иллюзион +
+http://sourcexc.com:8080/live/focusstream/25514299/906607.ts
+#EXTINF:-1  tvg-name="Классика Кино" tvg-logo="http://peaktv.su/img/logos/films/klassika-kino.png" group-title="Rus",Классика Кино
+http://sourcexc.com:8080/live/focusstream/25514299/906608.ts
+#EXTINF:-1  tvg-name="Наше HD" tvg-logo="http://peaktv.su/img/logos/films/nashehd.png" group-title="Rus",Наше HD
+http://sourcexc.com:8080/live/focusstream/25514299/906609.ts
+#EXTINF:-1  tvg-name="Наше Наследие HD" tvg-logo="http://peaktv.su/img/logos/kino/nashenasledie200.png" group-title="Rus",Наше Наследие HD
+http://sourcexc.com:8080/live/focusstream/25514299/906610.ts
+#EXTINF:-1  tvg-name="Viasat Kino HD CEE" tvg-logo="http://peaktv.su/img/logos/kino/VIASATKINO200.png" group-title="Rus",Viasat Kino HD CEE
+http://sourcexc.com:8080/live/focusstream/25514299/906611.ts
+#EXTINF:-1  tvg-name="Viasat Kino World CEE" tvg-logo="http://peaktv.su/img/logos/kino/VIASATKINOWORLD200.png" group-title="Rus",Viasat Kino World CEE
+http://sourcexc.com:8080/live/focusstream/25514299/906612.ts
+#EXTINF:-1  tvg-name="Viasat Kino Action HD CEE" tvg-logo="http://peaktv.su/img/logos/kino/VIASATKINOACTION200.png" group-title="Rus",Viasat Kino Action HD CEE
+http://sourcexc.com:8080/live/focusstream/25514299/906613.ts
+#EXTINF:-1  tvg-name="Viasat Kino Comedy HD CEE" tvg-logo="http://peaktv.su/img/logos/kino/VIASATKINOCOMEDY200.png" group-title="Rus",Viasat Kino Comedy HD CEE
+http://sourcexc.com:8080/live/focusstream/25514299/906614.ts
+#EXTINF:-1  tvg-name="Viasat Kino Megahit HD CEE" tvg-logo="http://peaktv.su/img/logos/kino/VIASATKINOMEGAHIT200.png" group-title="Rus",Viasat Kino Megahit HD CEE
+http://sourcexc.com:8080/live/focusstream/25514299/906615.ts
+#EXTINF:-1  tvg-name="FamilyJam HD" tvg-logo="http://peaktv.su/img/logos/films/familyjam.png" group-title="Rus",FamilyJam HD
+http://sourcexc.com:8080/live/focusstream/25514299/906616.ts
+#EXTINF:-1  tvg-name="Синема" tvg-logo="http://peaktv.su/img/logos/films/cinema.png" group-title="Rus",Синема
+http://sourcexc.com:8080/live/focusstream/25514299/906617.ts
+#EXTINF:-1  tvg-name="Киносезон" tvg-logo="http://peaktv.su/img/logos/films/kinosezon.png" group-title="Rus",Киносезон
+http://sourcexc.com:8080/live/focusstream/25514299/906618.ts
+#EXTINF:-1  tvg-name="Победа HD" tvg-logo="http://peaktv.su/img/logos/films/pobeda.png" group-title="Rus",Победа HD
+http://sourcexc.com:8080/live/focusstream/25514299/906619.ts
+#EXTINF:-1  tvg-name="Cinema Космос ТВ HD" tvg-logo="http://peaktv.su/img/logos/films/cosmostv.png" group-title="Rus",Cinema Космос ТВ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906620.ts
+#EXTINF:-1  tvg-name="Flix Snip HD" tvg-logo="http://peaktv.su/img/logos/films/flixsnip.png" group-title="Rus",Flix Snip HD
+http://sourcexc.com:8080/live/focusstream/25514299/906621.ts
+#EXTINF:-1  tvg-name="Plan_B" tvg-logo="http://peaktv.su/img/logos/films/plan-b.png" group-title="Rus",Plan_B
+http://sourcexc.com:8080/live/focusstream/25514299/906622.ts
+#EXTINF:-1  tvg-name="KinoLiving HD" tvg-logo="https://epg.iptvx.one/picons/kinoliving.png" group-title="Rus",KinoLiving HD
+http://sourcexc.com:8080/live/focusstream/25514299/906623.ts
+#EXTINF:-1  tvg-name="Кинопоказ HD" tvg-logo="http://peaktv.su/img/logos/films/kinopokaz.png" group-title="Rus",Кинопоказ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906624.ts
+#EXTINF:-1  tvg-name="Феникс+Кино HD" tvg-logo="http://peaktv.su/img/logos/films/feniks-plus-kino.png" group-title="Rus",Феникс+Кино HD
+http://sourcexc.com:8080/live/focusstream/25514299/906625.ts
+#EXTINF:-1  tvg-name="Scream HD" tvg-logo="http://peaktv.su/img/logos/films/scream.png" group-title="Rus",Scream HD
+http://sourcexc.com:8080/live/focusstream/25514299/906626.ts
+#EXTINF:-1  tvg-name="Лавстори HD" tvg-logo="http://peaktv.su/img/logos/films/lavstori.png" group-title="Rus",Лавстори HD
+http://sourcexc.com:8080/live/focusstream/25514299/906627.ts
+#EXTINF:-1  tvg-name="Romance HD" tvg-logo="http://peaktv.su/img/logos/films/romance.png" group-title="Rus",Romance HD
+http://sourcexc.com:8080/live/focusstream/25514299/906628.ts
+#EXTINF:-1  tvg-name="Suspense HD" tvg-logo="http://peaktv.su/img/logos/films/suspense.png" group-title="Rus",Suspense HD
+http://sourcexc.com:8080/live/focusstream/25514299/906629.ts
+#EXTINF:-1  tvg-name="Советская киноклассика HD" tvg-logo="http://peaktv.su/img/logos/films/sov-kinklass.png" group-title="Rus",Советская киноклассика HD
+http://sourcexc.com:8080/live/focusstream/25514299/906630.ts
+#EXTINF:-1  tvg-name="Кино и Жизнь HD" tvg-logo="http://peaktv.su/img/logos/kino/kinoizhizn200.png" group-title="Rus",Кино и Жизнь HD
+http://sourcexc.com:8080/live/focusstream/25514299/906631.ts
+#EXTINF:-1  tvg-name="Время" tvg-logo="http://peaktv.su/img/logos/efir/vremia.png" group-title="Rus",Время
+http://sourcexc.com:8080/live/focusstream/25514299/906632.ts
+#EXTINF:-1  tvg-name="Ретро" tvg-logo="http://peaktv.su/img/logos/films/retro-tv.png" group-title="Rus",Ретро
+http://sourcexc.com:8080/live/focusstream/25514299/906633.ts
+#EXTINF:-1  tvg-name="Hollywood HD" tvg-logo="http://peaktv.su/img/logos/films/hollywood-hd.png" group-title="Rus",Hollywood HD
+http://sourcexc.com:8080/live/focusstream/25514299/906634.ts
+#EXTINF:-1  tvg-name="Star Family HD RU" tvg-logo="http://peaktv.su/img/logos/kinoInt/star-family.png" group-title="Rus",Star Family HD RU
+http://sourcexc.com:8080/live/focusstream/25514299/906635.ts
+#EXTINF:-1  tvg-name="Star Cinema HD RU" tvg-logo="http://peaktv.su/img/logos/kinoInt/star-cinema.png" group-title="Rus",Star Cinema HD RU
+http://sourcexc.com:8080/live/focusstream/25514299/906636.ts
+#EXTINF:-1  tvg-name="Криминальное HD" tvg-logo="http://peaktv.su/img/logos/films/kriminalnoe_hd.png" group-title="Rus",Криминальное HD
+http://sourcexc.com:8080/live/focusstream/25514299/906637.ts
+#EXTINF:-1  tvg-name="KION Хит HD" tvg-logo="http://peaktv.su/img/logos/films/kion-xit.png" group-title="Rus",KION Хит HD
+http://sourcexc.com:8080/live/focusstream/25514299/906638.ts
+#EXTINF:-1  tvg-name="Кинеко HD" tvg-logo="http://peaktv.su/img/logos/films/kineko.png" group-title="Rus",Кинеко HD
+http://sourcexc.com:8080/live/focusstream/25514299/906639.ts
+#EXTINF:-1  tvg-name="Сапфир HD" tvg-logo="http://peaktv.su/img/logos/films/sapfir.png" group-title="Rus",Сапфир HD
+http://sourcexc.com:8080/live/focusstream/25514299/906640.ts
+#EXTINF:-1  tvg-name="Detective Jam HD" tvg-logo="http://peaktv.su/img/logos/films/detectivejam.png" group-title="Rus",Detective Jam HD
+http://sourcexc.com:8080/live/focusstream/25514299/906641.ts
+#EXTINF:-1  tvg-name="VHS-ка HD" tvg-logo="http://peaktv.su/img/logos/films/vhs-ka.png" group-title="Rus",VHS-ка HD
+http://sourcexc.com:8080/live/focusstream/25514299/906642.ts
+#EXTINF:-1  tvg-name="VHS-ка Сериал HD" tvg-logo="http://peaktv.su/img/logos/kino/vhskaserial200.png" group-title="Rus",VHS-ка Сериал HD
+http://sourcexc.com:8080/live/focusstream/25514299/906643.ts
+#EXTINF:-1  tvg-name="Видеокассета VHS" tvg-logo="http://peaktv.su/img/logos/kino/videokasseta200.png" group-title="Rus",Видеокассета VHS
+http://sourcexc.com:8080/live/focusstream/25514299/906644.ts
+#EXTINF:-1  tvg-name="TV | 21" tvg-logo="http://peaktv.su/img/logos/films/tvxxi.png" group-title="Rus",TV | 21
+http://sourcexc.com:8080/live/focusstream/25514299/906645.ts
+#EXTINF:-1  tvg-name="Первый канал HD" tvg-logo="http://peaktv.su/img/logos/efir/pervyj.png" group-title="Rus",Первый канал HD
+http://sourcexc.com:8080/live/focusstream/25514299/906297.ts
+#EXTINF:-1  tvg-name="Первый канал +1" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl1.png" group-title="Rus",Первый канал +1
+http://sourcexc.com:8080/live/focusstream/25514299/906299.ts
+#EXTINF:-1  tvg-name="Первый канал +2" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl2.png" group-title="Rus",Первый канал +2
+http://sourcexc.com:8080/live/focusstream/25514299/906300.ts
+#EXTINF:-1  tvg-name="Первый канал +3" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl3.png" group-title="Rus",Первый канал +3
+http://sourcexc.com:8080/live/focusstream/25514299/906301.ts
+#EXTINF:-1  tvg-name="Первый канал HD +4" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl4.png" group-title="Rus",Первый канал HD +4
+http://sourcexc.com:8080/live/focusstream/25514299/906302.ts
+#EXTINF:-1  tvg-name="Первый канал +5" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl5.png" group-title="Rus",Первый канал +5
+http://sourcexc.com:8080/live/focusstream/25514299/906303.ts
+#EXTINF:-1  tvg-name="Первый канал +7" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl7.png" group-title="Rus",Первый канал +7
+http://sourcexc.com:8080/live/focusstream/25514299/906304.ts
+#EXTINF:-1  tvg-name="Первый канал +8" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl8.png" group-title="Rus",Первый канал +8
+http://sourcexc.com:8080/live/focusstream/25514299/906305.ts
+#EXTINF:-1  tvg-name="Первый канал СНГ" tvg-logo="http://peaktv.su/img/logos/efir/pervy-kanal-csi.png" group-title="Rus",Первый канал СНГ
+http://sourcexc.com:8080/live/focusstream/25514299/906306.ts
+#EXTINF:-1  tvg-name="Россия 1 HD" tvg-logo="http://peaktv.su/img/logos/efir/rossia1.png" group-title="Rus",Россия 1 HD
+http://sourcexc.com:8080/live/focusstream/25514299/906308.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +2" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl2.png" group-title="Rus",Россия 1 HD +2
+http://sourcexc.com:8080/live/focusstream/25514299/906312.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +3" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl3.png" group-title="Rus",Россия 1 HD +3
+http://sourcexc.com:8080/live/focusstream/25514299/906314.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +4" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl4.png" group-title="Rus",Россия 1 HD +4
+http://sourcexc.com:8080/live/focusstream/25514299/906316.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +5" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl5.png" group-title="Rus",Россия 1 HD +5
+http://sourcexc.com:8080/live/focusstream/25514299/906318.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +6" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl6.png" group-title="Rus",Россия 1 HD +6
+http://sourcexc.com:8080/live/focusstream/25514299/906320.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +7" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl7.png" group-title="Rus",Россия 1 HD +7
+http://sourcexc.com:8080/live/focusstream/25514299/906322.ts
+#EXTINF:-1  tvg-name="Россия 1 HD +8" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl8.png" group-title="Rus",Россия 1 HD +8
+http://sourcexc.com:8080/live/focusstream/25514299/906324.ts
+#EXTINF:-1  tvg-name="Россия 1 +9" tvg-logo="http://peaktv.su/img/logos/efir/rossia1-pl9.png" group-title="Rus",Россия 1 +9
+http://sourcexc.com:8080/live/focusstream/25514299/906326.ts
+#EXTINF:-1  tvg-name="НТВ HD" tvg-logo="http://peaktv.su/img/logos/efir/ntv-white.png" group-title="Rus",НТВ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906328.ts
+#EXTINF:-1  tvg-name="НТВ HD +2" tvg-logo="http://peaktv.su/img/logos/efir/ntv-pl2.png" group-title="Rus",НТВ HD +2
+http://sourcexc.com:8080/live/focusstream/25514299/906330.ts
+#EXTINF:-1  tvg-name="НТВ HD +4" tvg-logo="http://peaktv.su/img/logos/efir/ntv-pl4.png" group-title="Rus",НТВ HD +4
+http://sourcexc.com:8080/live/focusstream/25514299/906332.ts
+#EXTINF:-1  tvg-name="НТВ +7" tvg-logo="http://peaktv.su/img/logos/efir/ntv-pl7.png" group-title="Rus",НТВ +7
+http://sourcexc.com:8080/live/focusstream/25514299/906334.ts
+#EXTINF:-1  tvg-name="ТНТ HD" tvg-logo="http://peaktv.su/img/logos/show/tnt.png" group-title="Rus",ТНТ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906337.ts
+#EXTINF:-1  tvg-name="ТНТ HD +2" tvg-logo="http://peaktv.su/img/logos/show/tnt-pl2.png" group-title="Rus",ТНТ HD +2
+http://sourcexc.com:8080/live/focusstream/25514299/906339.ts
+#EXTINF:-1  tvg-name="ТНТ HD +4" tvg-logo="http://peaktv.su/img/logos/show/tnt-pl4.png" group-title="Rus",ТНТ HD +4
+http://sourcexc.com:8080/live/focusstream/25514299/906341.ts
+#EXTINF:-1  tvg-name="ТНТ HD +7" tvg-logo="http://peaktv.su/img/logos/show/tnt-pl7.png" group-title="Rus",ТНТ HD +7
+http://sourcexc.com:8080/live/focusstream/25514299/906343.ts
+#EXTINF:-1  tvg-name="СТС HD" tvg-logo="http://peaktv.su/img/logos/show/sts.png" group-title="Rus",СТС HD
+http://sourcexc.com:8080/live/focusstream/25514299/906352.ts
+#EXTINF:-1  tvg-name="СТС +2" tvg-logo="http://peaktv.su/img/logos/efir/sts-pl2.png" group-title="Rus",СТС +2
+http://sourcexc.com:8080/live/focusstream/25514299/906354.ts
+#EXTINF:-1  tvg-name="СТС +4" tvg-logo="http://peaktv.su/img/logos/show/sts-pl4.png" group-title="Rus",СТС +4
+http://sourcexc.com:8080/live/focusstream/25514299/906355.ts
+#EXTINF:-1  tvg-name="СТС +7" tvg-logo="http://peaktv.su/img/logos/show/sts-pl7.png" group-title="Rus",СТС +7
+http://sourcexc.com:8080/live/focusstream/25514299/906356.ts
+#EXTINF:-1  tvg-name="СТС Love" tvg-logo="http://peaktv.su/img/logos/federal/sts-love.png" group-title="Rus",СТС Love
+http://sourcexc.com:8080/live/focusstream/25514299/906358.ts
+#EXTINF:-1  tvg-name="Рен ТВ HD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" group-title="Rus",Рен ТВ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906360.ts
+#EXTINF:-1  tvg-name="Рен ТВ" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" group-title="Rus",Рен ТВ
+http://sourcexc.com:8080/live/focusstream/25514299/906361.ts
+#EXTINF:-1  tvg-name="Рен ТВ +2" tvg-logo="http://peaktv.su/img/logos/efir/rentv-pl2.png" group-title="Rus",Рен ТВ +2
+http://sourcexc.com:8080/live/focusstream/25514299/906362.ts
+#EXTINF:-1  tvg-name="Рен ТВ +4" tvg-logo="http://peaktv.su/img/logos/efir/rentv-pl4.png" group-title="Rus",Рен ТВ +4
+http://sourcexc.com:8080/live/focusstream/25514299/906363.ts
+#EXTINF:-1  tvg-name="Рен ТВ +7" tvg-logo="http://peaktv.su/img/logos/efir/rentv-pl7.png" group-title="Rus",Рен ТВ +7
+http://sourcexc.com:8080/live/focusstream/25514299/906364.ts
+#EXTINF:-1  tvg-name="ТВЦ HD" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr.png" group-title="Rus",ТВЦ HD
+http://sourcexc.com:8080/live/focusstream/25514299/906366.ts
+#EXTINF:-1  tvg-name="ТВЦ +2" tvg-logo="http://peaktv.su/img/logos/federal/TVCPL2200.png" group-title="Rus",ТВЦ +2
+http://sourcexc.com:8080/live/focusstream/25514299/906368.ts
+#EXTINF:-1  tvg-name="ТВЦ +4" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr-pl4.png" group-title="Rus",ТВЦ +4
+http://sourcexc.com:8080/live/focusstream/25514299/906369.ts
+#EXTINF:-1  tvg-name="ТВЦ +7" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr-pl7.png" group-title="Rus",ТВЦ +7
+http://sourcexc.com:8080/live/focusstream/25514299/906370.ts
+#EXTINF:-1  tvg-name="Звезда" tvg-logo="http://peaktv.su/img/logos/efir/zvezda.png" group-title="Rus",Звезда
+http://sourcexc.com:8080/live/focusstream/25514299/906372.ts
+#EXTINF:-1  tvg-name="Звезда +2" tvg-logo="http://peaktv.su/img/logos/efir/zvezda-pl2.png" group-title="Rus",Звезда +2
+http://sourcexc.com:8080/live/focusstream/25514299/906373.ts
+#EXTINF:-1  tvg-name="Звезда +4" tvg-logo="http://peaktv.su/img/logos/efir/zvezda-pl4.png" group-title="Rus",Звезда +4
+http://sourcexc.com:8080/live/focusstream/25514299/906374.ts
+#EXTINF:-1  tvg-name="Звезда +7" tvg-logo="http://peaktv.su/img/logos/efir/zvezda-pl7.png" group-title="Rus",Звезда +7
+http://sourcexc.com:8080/live/focusstream/25514299/906375.ts
+#EXTINF:-1  tvg-name="Звезда Плюс HD" tvg-logo="http://peaktv.su/img/logos/efir/zvezda-plus.png" group-title="Rus",Звезда Плюс HD
+http://sourcexc.com:8080/live/focusstream/25514299/906376.ts
+#EXTINF:-1  tvg-name="Пятый канал HD" tvg-logo="http://peaktv.su/img/logos/efir/5kanal-ru.png" group-title="Rus",Пятый канал HD
+http://sourcexc.com:8080/live/focusstream/25514299/906377.ts
+#EXTINF:-1  tvg-name="Пятый канал +2" tvg-logo="http://peaktv.su/img/logos/efir/5kanal-ru-pl2.png" group-title="Rus",Пятый канал +2
+http://sourcexc.com:8080/live/focusstream/25514299/906378.ts
+#EXTINF:-1  tvg-name="Пятый канал +7" tvg-logo="http://peaktv.su/img/logos/show/5kanal-ru-pl7.png" group-title="Rus",Пятый канал +7
+http://sourcexc.com:8080/live/focusstream/25514299/906379.ts
+#EXTINF:-1  tvg-name="ТВ3" tvg-logo="http://peaktv.su/img/logos/federal/tv3-ru.png" group-title="Rus",ТВ3
+http://sourcexc.com:8080/live/focusstream/25514299/906382.ts
+#EXTINF:-1  tvg-name="ТВ3 +2" tvg-logo="http://peaktv.su/img/logos/federal/TV3RUPL2200.png" group-title="Rus",ТВ3 +2
+http://sourcexc.com:8080/live/focusstream/25514299/906383.ts
+#EXTINF:-1  tvg-name="ТВ3 +4" tvg-logo="http://peaktv.su/img/logos/efir/tv3-ru-pl4.png" group-title="Rus",ТВ3 +4
+http://sourcexc.com:8080/live/focusstream/25514299/906384.ts
+#EXTINF:-1  tvg-name="ТВ3 +7" tvg-logo="http://peaktv.su/img/logos/efir/tv3-ru-pl7.png" group-title="Rus",ТВ3 +7
+http://sourcexc.com:8080/live/focusstream/25514299/906385.ts
+#EXTINF:-1  tvg-name="Мир HD" tvg-logo="http://peaktv.su/img/logos/efir/mir.png" group-title="Rus",Мир HD
+http://sourcexc.com:8080/live/focusstream/25514299/906387.ts
+#EXTINF:-1  tvg-name="Мир" tvg-logo="http://peaktv.su/img/logos/efir/mir.png" group-title="Rus",Мир
+http://sourcexc.com:8080/live/focusstream/25514299/906388.ts
+#EXTINF:-1  tvg-name="Мир +2" tvg-logo="http://peaktv.su/img/logos/efir/mir-pl2.png" group-title="Rus",Мир +2
+http://sourcexc.com:8080/live/focusstream/25514299/906389.ts
+#EXTINF:-1  tvg-name="Мир +4" tvg-logo="http://peaktv.su/img/logos/efir/mir-pl4.png" group-title="Rus",Мир +4
+http://sourcexc.com:8080/live/focusstream/25514299/906390.ts
+#EXTINF:-1  tvg-name="Мир +7" tvg-logo="http://peaktv.su/img/logos/efir/mir-pl7.png" group-title="Rus",Мир +7
+http://sourcexc.com:8080/live/focusstream/25514299/906391.ts
+#EXTINF:-1  tvg-name="Пятница! HD" tvg-logo="http://peaktv.su/img/logos/show/pyatnica.png" group-title="Rus",Пятница! HD
+http://sourcexc.com:8080/live/focusstream/25514299/906393.ts
+#EXTINF:-1  tvg-name="Пятница! +4" tvg-logo="http://peaktv.su/img/logos/show/piatnica-pl4.png" group-title="Rus",Пятница! +4
+http://sourcexc.com:8080/live/focusstream/25514299/906395.ts
+#EXTINF:-1  tvg-name="Пятница! +6" tvg-logo="http://peaktv.su/img/logos/efir/piatnica.png" group-title="Rus",Пятница! +6
+http://sourcexc.com:8080/live/focusstream/25514299/906396.ts
+#EXTINF:-1  tvg-name="Суббота! HD" tvg-logo="http://peaktv.su/img/logos/films/subbota.png" group-title="Rus",Суббота! HD
+http://sourcexc.com:8080/live/focusstream/25514299/906399.ts
+#EXTINF:-1  tvg-name="Суббота! +2"  group-title="Rus",Суббота! +2
+http://sourcexc.com:8080/live/focusstream/25514299/906401.ts
+#EXTINF:-1  tvg-name="Суббота! +4"  group-title="Rus",Суббота! +4
+http://sourcexc.com:8080/live/focusstream/25514299/906402.ts
+#EXTINF:-1  tvg-name="Суббота! +7" tvg-logo="http://peaktv.su/img/logos/efir/subbota-pl7.png" group-title="Rus",Суббота! +7
+http://sourcexc.com:8080/live/focusstream/25514299/906403.ts
+#EXTINF:-1  tvg-name="Домашний HD" tvg-logo="http://peaktv.su/img/logos/efir/domashny.png" group-title="Rus",Домашний HD
+http://sourcexc.com:8080/live/focusstream/25514299/906405.ts
+#EXTINF:-1  tvg-name="Домашний +2" tvg-logo="http://peaktv.su/img/logos/efir/domashny-pl2.png" group-title="Rus",Домашний +2
+http://sourcexc.com:8080/live/focusstream/25514299/906407.ts
+#EXTINF:-1  tvg-name="Домашний +4" tvg-logo="http://peaktv.su/img/logos/efir/domashny-pl4.png" group-title="Rus",Домашний +4
+http://sourcexc.com:8080/live/focusstream/25514299/906408.ts
+#EXTINF:-1  tvg-name="Домашний +7" tvg-logo="http://peaktv.su/img/logos/efir/domashny-pl7.png" group-title="Rus",Домашний +7
+http://sourcexc.com:8080/live/focusstream/25514299/906409.ts
+#EXTINF:-1  tvg-name="Перец INT" tvg-logo="http://peaktv.su/img/logos/show/perec.png" group-title="Rus",Перец INT
+http://sourcexc.com:8080/live/focusstream/25514299/906410.ts
+#EXTINF:-1  tvg-name="Че!" tvg-logo="http://peaktv.su/img/logos/federal/che.png" group-title="Rus",Че!
+http://sourcexc.com:8080/live/focusstream/25514299/906411.ts
+#EXTINF:-1  tvg-name="Че! +2"  group-title="Rus",Че! +2
+http://sourcexc.com:8080/live/focusstream/25514299/906413.ts
+#EXTINF:-1  tvg-name="Че! +4"  group-title="Rus",Че! +4
+http://sourcexc.com:8080/live/focusstream/25514299/906414.ts
+#EXTINF:-1  tvg-name="Че! +7" tvg-logo="http://peaktv.su/img/logos/efir/che-pl7.png" group-title="Rus",Че! +7
+http://sourcexc.com:8080/live/focusstream/25514299/906415.ts
+#EXTINF:-1  tvg-name="ОТР" tvg-logo="http://peaktv.su/img/logos/efir/otr.png" group-title="Rus",ОТР
+http://sourcexc.com:8080/live/focusstream/25514299/906416.ts
+#EXTINF:-1  tvg-name="Ю (МСК)" tvg-logo="http://peaktv.su/img/logos/efir/yu.png" group-title="Rus",Ю (МСК)
+http://sourcexc.com:8080/live/focusstream/25514299/906417.ts
+#EXTINF:-1  tvg-name="Ю" tvg-logo="http://peaktv.su/img/logos/efir/yu.png" group-title="Rus",Ю
+http://sourcexc.com:8080/live/focusstream/25514299/906418.ts
+#EXTINF:-1  tvg-name="Ю +2" tvg-logo="http://peaktv.su/img/logos/efir/yu-pl2.png" group-title="Rus",Ю +2
+http://sourcexc.com:8080/live/focusstream/25514299/906419.ts
+#EXTINF:-1  tvg-name="Ю +4" tvg-logo="http://peaktv.su/img/logos/efir/yu-pl4.png" group-title="Rus",Ю +4
+http://sourcexc.com:8080/live/focusstream/25514299/906420.ts
+#EXTINF:-1  tvg-name="Ю +7" tvg-logo="http://peaktv.su/img/logos/efir/yu-pl7.png" group-title="Rus",Ю +7
+http://sourcexc.com:8080/live/focusstream/25514299/906421.ts
+#EXTINF:-1  tvg-name="Санкт-Петербург HD" tvg-logo="http://peaktv.su/img/logos/efir/sankt-peterburg.png" group-title="Rus",Санкт-Петербург HD
+http://sourcexc.com:8080/live/focusstream/25514299/906423.ts
+#EXTINF:-1  tvg-name="Спас" tvg-logo="http://peaktv.su/img/logos/efir/spas.png" group-title="Rus",Спас
+http://sourcexc.com:8080/live/focusstream/25514299/906424.ts
+#EXTINF:-1  tvg-name="Союз" tvg-logo="http://peaktv.su/img/logos/poznanie/soyuz.png" group-title="Rus",Союз
+http://sourcexc.com:8080/live/focusstream/25514299/906425.ts
+#EXTINF:-1  tvg-name="Доверие" tvg-logo="http://peaktv.su/img/logos/efir/doverie.png" group-title="Rus",Доверие
+http://sourcexc.com:8080/live/focusstream/25514299/906428.ts
+#EXTINF:-1  tvg-name="ТНВ-Планета" tvg-logo="http://peaktv.su/img/logos/federal/tnv.png" group-title="Rus",ТНВ-Планета
+http://sourcexc.com:8080/live/focusstream/25514299/906430.ts
 
