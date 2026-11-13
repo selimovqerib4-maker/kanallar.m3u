@@ -53,8 +53,39 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 #EXTINF:-1 group-title="Azərbaycan",GUNAZ TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 group-title="Azərbaycan",AS STAR TV
-https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel",ALVIN OVCU TV
+https://catcast.ismailturret.workers.dev/AlvinOvcu.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Belgesel",TRT BELGESEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275550&extension=ts&play_token=yPElqMB2sf
+#EXTINF:-1 group-title="Belgesel",Yaban Hayatı
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/yaban-hayat.m3u8
+#EXTINF:-1 tvg-id="Kapaz TV" group-title="Musiqi",Kəpəz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Musiqi",Könül Tv Music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 group-title="Musiqi",Mahnı Tv Musiqi Kanalı
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/34971
+#EXTINF:-1 tvg-name="RIHAT MUSIC TV HD" group-title="Musiqi",RIHAT MUSIC TV HD
+https://catcast.ismailturret.workers.dev/rihattv.m3u8
+#EXTINF:-1 group-title="Musiqi",MusicAzerbaijan Tv
+http://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 group-title="Musiqi",KNtv
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",Musiqi 7/24
+http://sourcexc.com:8080/live/focusstream/25514299/783131.ts
+#EXTINF:-1 group-title="Musiqi",MAX TV
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Musiqi",VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 group-title="Musiqi",ELAMUSIC
+https://catcast.ismailturret.workers.dev/elamusic.m3u8
+#EXTINF:-1 tvg-name="AZ: VASTOK TV HD" group-title="Musiqi",ITV Music
+http://sourcexc.com:8080/live/focusstream/25514299/783151.ts
+#EXTINF:-1 group-title="Musiqi",NEO PLAY
+https://a8.radyotelekom.com.tr:3800/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/vogcoq4i.png" group-title="Musiqi",KRAL POP TV
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+
 #EXTINF:-1 tvg-id="KemalSunal1.tr" tvg-name="Kemal Sunal 1" group-title="Sinema",Kemal Sunal 5
 https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
 #EXTINF:-1 tvg-id="KemalSunal3.tr" tvg-name="Kemal Sunal 3" group-title="Sinema",Kemal Sunal 6
