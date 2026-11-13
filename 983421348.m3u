@@ -55,4 +55,194 @@ https://ip100.radyotelekomtv.com:3274/hybrid/play.m3u8
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Azərbaycan",AS STAR TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="KemalSunal1.tr" tvg-name="Kemal Sunal 1" group-title="Sinema",Kemal Sunal 5
+https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8
+#EXTINF:-1 tvg-id="KemalSunal3.tr" tvg-name="Kemal Sunal 3" group-title="Sinema",Kemal Sunal 6
+https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8
+#EXTINF:-1 group-title="Sinema",TR :Kemal Sunal 7
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9265
+#EXTINF:-1 group-title="Sinema",TR : Kemal Sunal 8
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189143
+#EXTINF:-1 group-title="Sinema",HABABAM SINIFI
+https://catcast.ismailturret.workers.dev/hababam.m3u8
+#EXTINF:-1 group-title="Sinema",Kurtlar Vadisi 1
+https://raw.githubusercontent.com/sunarproje/yt/main/streams/kurtlar-vadisi-pusu.m3u8
+#EXTINF:-1 group-title="Sinema",Kurtlar Vadisi 2
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 group-title="Sinema",Yansima Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Max Dizi
+http://162.212.179.32/akamaissh101/ssh101/maxdizi/chunks.m3u8
+#EXTINF:-1 group-title="Sinema",Maxpremier
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Maxyerli
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Max Tv HD
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/playlist.m3u8
+#EXTINF:-1 group-title="Sinema",Sinema Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 tvg-name="AZ: NEW TV HD" group-title="Sinema",Yeşilcam Filmleri
+http://sourcexc.com:8080/live/focusstream/25514299/783134.ts
+#EXTINF:-1 group-title="Sinema",TR : Proturk LOCA 1 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189127
+#EXTINF:-1 group-title="Sinema",TR : Proturk LOCA 2 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189128
+#EXTINF:-1 group-title="Sinema",TR : Proturk Bilim Kurgu HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189129
+#EXTINF:-1 group-title="Sinema",TR : Proturk Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189130
+#EXTINF:-1 group-title="Sinema",TR : Proturk Gerilim HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189131
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59Cd5mGN/viasat-epic-drama.png" group-title="Sinema",VİASAT EPİC DRAMA
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
+#EXTINF:-1  group-title="Sinema",RİZE TÜRK
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Yeşilçam
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Deadpool
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Korku
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxkorku.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Max Dağ
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmaxdag.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Prime Eşref Tek
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
+#EXTINF:-1  group-title="Sinema",Fanatik Prime Bizimkiler
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 group-title="Sinema",TR : Proturk Korku HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189132
+#EXTINF:-1 group-title="Sinema",TR : Proturk DRAM HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189133
+#EXTINF:-1 group-title="Sinema",TR : Proturk Fantastic HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189134
+#EXTINF:-1 group-title="Sinema",TR : Proturk Macera HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189135
+#EXTINF:-1 group-title="Sinema",TR : Proturk Comedy HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189136
+#EXTINF:-1 group-title="Sinema",TR : Proturk Vizyon HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189137
+#EXTINF:-1 group-title="Sinema",TR : Proturk Yerli HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189138
+#EXTINF:-1 group-title="Sinema",TR : Proturk Uzakdoğu HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189139
+#EXTINF:-1 group-title="Sinema",TR : Proturk Western HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189140
+#EXTINF:-1 group-title="Sinema",TR : Proturk 4K Ultra
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189141
+#EXTINF:-1 group-title="Sinema",TR : Proturk Orjinal HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189142
+#EXTINF:-1 group-title="Sinema",TR : Proturk Yeşilçam HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189144
+#EXTINF:-1 group-title="Sinema",TR : Arena BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189146
+#EXTINF:-1 group-title="Sinema",TR : FIX Cinema Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189147
+#EXTINF:-1 group-title="Sinema",TR : KING BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189148
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189149
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Fantastic HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189150
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Bilim Kurgu HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189151
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Macera HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189152
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Korku HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189153
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Comedy HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189154
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX DRAM HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189155
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Western HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189156
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Vizyon HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189157
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Yerli HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189158
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX GOLD HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189159
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Marvel HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189160
+#EXTINF:-1 group-title="Sinema",TR : MEGA BOX Yeşilçam HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189161
+#EXTINF:-1 group-title="Sinema",TR : REAL BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189162
+#EXTINF:-1 group-title="Sinema",TR : Dream BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189163
+#EXTINF:-1 group-title="Sinema",TR : FILM BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189164
+#EXTINF:-1 group-title="Sinema",TR : Smart BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189165
+#EXTINF:-1 group-title="Sinema",TR : Global BOX Action HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/189166
+#EXTINF:-1 group-title="Sinema",TR : Sinevizyon TURK 7 HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9214
+#EXTINF:-1 group-title="Sinema",TR : MAX Premier HD
+http://bigbosstv.live:8080/live:iptvtree/DNKIsU0W6VIFxhzW/9255
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3LFzchs/images-removebg-preview-(3).png" group-title="Sinema",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="Sinema",CİNE5 TV
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YrbxXS/12029-removebg-preview.png" group-title="Sinema",TELEZEN
+https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/telezentvchannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ySpcvvF/37593099-ico.png" group-title="Sinema",CENNET MAHALLESİ TV
+https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197150&extension=ts&play_token=Qyg7xZtKPS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197154&extension=ts&play_token=DhHmxaaEy1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/TiviOneENTERTAINMENT/TiviOne-movies-183472.png" group-title="Sinema",TIVIONE MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197155&extension=ts&play_token=bGp1orGGzP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197152&extension=ts&play_token=fkElbmWwon
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DiziSmartPremium.tr.png" group-title="Sinema",DIZISMART PREMIUM
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197141&extension=ts&play_token=DviKGVpwou
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197130&extension=ts&play_token=OGpmnWnGk8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197142&extension=ts&play_token=a2Cuv0JYUx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197148&extension=ts&play_token=AZ1nfBwDC5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRTiviOneBOXOFFICE.png" group-title="Sinema",TIVIONE BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197153&extension=ts&play_token=X6RnnsIbuZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197139&extension=ts&play_token=ZOc5rxcKi6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart_classic.png" group-title="Sinema",MOVIESMART TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" group-title="Sinema",TIVIONE SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197146&extension=ts&play_token=1rohPQEEBT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema",TIVIONE MOVIES PREMIERE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197143&extension=ts&play_token=TIWsWdf93Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197121&extension=ts&play_token=jNoNfQTSEm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197133&extension=ts&play_token=vz7x3ifk8a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197131&extension=ts&play_token=X9NOzCl3Xm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197120&extension=ts&play_token=4qs9Rb6Vm6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AKSIYON 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197134&extension=ts&play_token=nFUwnunQ3l
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197125&extension=ts&play_token=WptkWfQkrP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV KOMEDI 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197126&extension=ts&play_token=VsyScjJNVY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SINEMATV-GRI.png" group-title="Sinema",SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197132&extension=ts&play_token=Bbe8LhucdQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart.png" group-title="Sinema",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/640px-Epic-Drama.png" group-title="Sinema",EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197138&extension=ts&play_token=3Go4nzhX4j
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275555&extension=ts&play_token=BbF3r8bw7o
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275553&extension=ts&play_token=QU7r6URZrk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",AKSIYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275554&extension=ts&play_token=OnNqa4ssRA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",SINEMA TURK 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275542&extension=ts&play_token=ONhvMMDFFm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13870.png?ver=89063" group-title="Sinema",VIZYON 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1275539&extension=ts&play_token=Ggsjm8WaZW
 
