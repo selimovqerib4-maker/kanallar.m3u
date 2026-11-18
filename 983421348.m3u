@@ -867,4 +867,4 @@ http://sourcexc.com:8080/live/focusstream/25514299/906425.ts
 http://sourcexc.com:8080/live/focusstream/25514299/906428.ts
 #EXTINF:-1  tvg-name="ТНВ-Планета" tvg-logo="http://peaktv.su/img/logos/federal/tnv.png" group-title="Rus",ТНВ-Планета
 http://sourcexc.com:8080/live/focusstream/25514299/906430.ts
-https://api.catcast.tv/api/channels/getbyshortname/ulduz-tv
+https://v2.catcast.tv/content/50265/index.m3u8?token-28026406-v1-a1.ts?token=1a255843d922e52fa1f9ba98b71bed98
