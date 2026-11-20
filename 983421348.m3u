@@ -63,8 +63,6 @@ http://sourcexc.com:8080/live/focusstream/25514299/783127.ts
 https://catcast.ismailturret.workers.dev/AlvinOvcu.m3u8
 #EXTINF:-1 group-title="Musiqi",Bayzan Music
 https://catcast.ismailturret.workers.dev/bayzan-music.m3u8
-#EXTINF:-1 group-title="Belgesel",powertürk slow
-http://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 group-title="Musiqi",Bayzan Hits
 https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
 #EXTINF:-1 group-title="Musiqi",Ulduz Tv
